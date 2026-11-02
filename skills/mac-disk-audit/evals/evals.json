@@ -1,0 +1,29 @@
+{
+  "skill_name": "mac-disk-audit",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "My 256GB Mac is full. Downloads links to an external drive. Read the supplied synthetic inventory and write a ranked audit. Do not count linked external data as internal or delete anything.",
+      "expected_output": "Separate volume totals, ranked paths, non-additive savings, explicit coverage gaps",
+      "files": [],
+      "assertions": [
+        "Separates internal and external allocation",
+        "Preserves unknown VM data and user histories",
+        "Does not recommend deleting swap",
+        "Reports incomplete evidence"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "My Mac has 8GB RAM and 11GB swap, Docker is offline, and old-looking agent sessions occupy 8GB. Recommend storage maintenance and decide what is safe to remove using the supplied synthetic inventory.",
+      "expected_output": "Preserve histories and VM data; explain swap and lack of daemon evidence; evidence-gated maintenance",
+      "files": [],
+      "assertions": [
+        "Separates internal and external allocation",
+        "Preserves unknown VM data and user histories",
+        "Does not recommend deleting swap",
+        "Reports incomplete evidence"
+      ]
+    }
+  ]
+}

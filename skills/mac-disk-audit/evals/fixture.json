@@ -1,0 +1,48 @@
+{
+  "internal": {
+    "total_gib": 228,
+    "free_gib": 7,
+    "ram_gib": 8,
+    "swap_used_gib": 10.5
+  },
+  "external": {
+    "mount": "/Volumes/Apfspace",
+    "mounted": true,
+    "free_gib": 75
+  },
+  "symlinks": [
+    {
+      "path": "/Users/rd/Downloads",
+      "target": "/Volumes/Apfspace/Downloads",
+      "target_allocated_gib": 30
+    }
+  ],
+  "candidates": [
+    {
+      "path": "/Users/rd/.cache/npm/_cacache",
+      "allocated_gib": 1.4,
+      "role": "reproducible download cache"
+    },
+    {
+      "path": "/Users/rd/.codex/sessions",
+      "allocated_gib": 8,
+      "role": "user conversation history"
+    },
+    {
+      "path": "/Users/rd/.orbstack/data",
+      "allocated_gib": 18,
+      "logical_gib": 512,
+      "role": "sparse VM image; daemon unreachable; unique data unknown"
+    },
+    {
+      "path": "/Users/rd/Library/Caches/Updater",
+      "allocated_gib": 0.6,
+      "mtime": "today",
+      "role": "updater staging; running update unknown"
+    }
+  ],
+  "gaps": [
+    "some system directories inaccessible"
+  ],
+  "snapshots": []
+}

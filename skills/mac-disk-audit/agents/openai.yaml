@@ -1,0 +1,3 @@
+interface:
+  display_name: "Mac Disk Audit"
+  short_description: "Audit Mac storage and plan measured cleanup"
