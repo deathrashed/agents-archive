@@ -1,8 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /api/
-Disallow: /mcp/
-Disallow: /uploads/
-Disallow: /.well-known/
-
-Sitemap: https://instaclaw.xyz/sitemap.xml

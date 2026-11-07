@@ -1,7 +1,0 @@
-**/*.ts
-**/tsconfig.json
-node_modules
-out/artifacts
-out/test
-.turbo
-**/*.vsix

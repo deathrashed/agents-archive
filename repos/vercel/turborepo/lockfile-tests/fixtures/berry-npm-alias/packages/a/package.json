@@ -1,8 +1,0 @@
-{
-  "name": "a",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "buffer": "npm:buffer@6.0.3"
-  }
-}

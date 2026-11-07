@@ -1,7 +1,0 @@
-{
-  "name": "app-b",
-  "private": true,
-  "dependencies": {
-    "got": "^9.6.0"
-  }
-}

@@ -26,8 +26,10 @@ for entry in "skillz|$library_root" "repos|$repos_root" "plugins|$plugins_root";
       done <<< "$dirs"
     done
     # Match by content (broader)
-    rg --no-ignore --hidden --glob 'SKILL.md' --glob '!*/.git/*' --glob '!*/node_modules/*' \
-      -i -l -- "$query_str" "$root" 2>/dev/null |
+    # `|| true` guards against rg exiting 1 on no-match, which under
+    # set -euo pipefail would abort the loop and skip all later sources.
+    { rg --no-ignore --hidden --glob 'SKILL.md' --glob '!*/.git/*' --glob '!*/node_modules/*' \
+      -i -l -- "$query_str" "$root" 2>/dev/null || true; } |
       while IFS= read -r path; do
         printf '[%s]\t%s\t(content)\n' "$source" "$path"
       done

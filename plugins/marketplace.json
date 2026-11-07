@@ -5,16 +5,16 @@
   },
   "plugins": [
     {
-      "name": "omx-product",
+      "name": "riley-context",
       "source": {
         "source": "local",
-        "path": "./.codex/plugins/omx-product"
+        "path": "./plugins/riley-context"
       },
       "policy": {
         "installation": "AVAILABLE",
         "authentication": "ON_INSTALL"
       },
-      "category": "Developer Tools"
+      "category": "Productivity"
     }
   ]
 }

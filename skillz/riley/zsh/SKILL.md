@@ -48,32 +48,67 @@ active `load_module`/`source` calls in `.zshrc`.
 │   └── zsh.png
 ├── completions/
 │   └── _<command>          # repo-local Zsh completion definitions
+│                            # (_betteraudio, _broken-links, _ghostty-tools,
+│                            #  _herdr, _hermes, _nerd, _ringicon, _scrobbler)
 ├── docs/
 │   ├── AGENTS.md / SKILL.md
 │   ├── ARCHITECTURE.md / PERFORMANCE.md
-│   └── INSTALLATION.md / CUSTOMIZATION.md
+│   ├── INSTALLATION.md / CUSTOMIZATION.md / STYLE.md
+│   └── msearch/           # msearch reference docs (module itself removed)
 ├── modules/
-│   ├── colors.zsh
-│   ├── data/
-│   │   ├── material.zsh
-│   │   └── pantone-coated.zsh
+│   ├── colors.zsh          # sources data/colors/{pantone,material}.zsh
 │   ├── config.zsh
 │   ├── aliases.zsh
 │   ├── functions.zsh
+│   ├── ai.zsh              # AI-tool env hub (replaces old antigravity.zsh)
+│   ├── tagg.zsh             # macOS Finder tag CLI (+ tagg.md notes)
+│   ├── fzf.zsh              # dispatcher only, loops over modules/fzf/*.zsh
+│   ├── fzf/
+│   │   ├── core.zsh
+│   │   ├── popup.zsh
+│   │   ├── brew.zsh
+│   │   ├── reference.zsh
+│   │   ├── shell.zsh
+│   │   ├── aliases.zsh
+│   │   ├── music.zsh
+│   │   └── shortcuts.zsh
+│   ├── nerdfonts.zsh
+│   ├── spectrum.zsh         # 256-color helpers (spectrum_ls/spectrum_bls)
 │   ├── coolshit.zsh
-│   ├── antigravity.zsh
 │   ├── git.zsh
-│   ├── lazy.zsh
 │   ├── loader.zsh
-│   └── ghostty.zsh
+│   ├── lazy.zsh
+│   ├── prompt_styles.zsh    # prompt-style switcher + interactive picker
+│   ├── ghostty.zsh
+│   ├── data/
+│   │   ├── colors/
+│   │   │   ├── pantone.zsh
+│   │   │   └── material.zsh
+│   │   └── lazy-symbols.zsh
+│   └── README.md
 ├── prompt/
 │   ├── starship.toml
-│   └── starship-terminal.toml
+│   ├── starship-terminal.toml
+│   ├── starship/            # supporting starship assets
+│   ├── styles/              # prompt_styles.zsh presets
+│   │   ├── boxed.toml
+│   │   ├── minimal.toml
+│   │   ├── powerline.toml
+│   │   └── time.toml
+│   └── picker/              # Go TUI (`prompt-picker`) used by `prompt` cmd
+│       ├── main.go / go.mod / go.sum
+│       ├── prompt-picker    # built binary
+│       └── preview.sh
 └── secrets/
     ├── APIs.csv
     ├── iterm2-integration.zsh
     └── secrets.zsh
 ```
+
+The old `modules/data/msearch/` tree (msearch-*.zsh, help/build-cache/preview
+scripts) has been removed from the repo; only reference docs remain under
+`docs/msearch/`. `modules/antigravity.zsh` no longer exists — `modules/ai.zsh`
+is now the AI-tool env hub.
 
 ---
 
@@ -282,13 +317,27 @@ checklists, and concrete examples.
 
 ### Module loading in `.zshrc`
 
-1. `colors.zsh` loads first and sources the palette data files.
-2. `config.zsh` loads next for environment, PATH, framework, and completions.
-3. `aliases.zsh`, `functions.zsh`, `coolshit.zsh`, and `antigravity.zsh`
-   load eagerly.
-4. `git.zsh` and `loader.zsh` use `zsh-defer` when available.
-5. `loader.zsh` registers stubs; the first stub call sources `lazy.zsh`.
-6. `ghostty.zsh` is sourced directly later in `.zshrc`, outside `load_module`.
+Actual order (verify against `.zshrc` — this drifts):
+
+1. `config.zsh` loads first (env, PATH, framework, completions).
+2. `secrets/secrets.zsh` sourced directly (not via `load_module`).
+3. Terminal integrations sourced inline: Ghostty shell-integration, VS Code
+   shell integration, iTerm2 (`secrets/iterm2-integration.zsh`), zsh-system-clipboard.
+4. Eager: `ai.zsh`, `aliases.zsh`, `functions.zsh`, `tagg.zsh`, `fzf.zsh`
+   (dispatches into `modules/fzf/*.zsh`), `nerdfonts.zsh`, `spectrum.zsh`,
+   `coolshit.zsh`.
+5. Deferred via `zsh-defer` when available (else loaded eagerly as fallback):
+   `colors.zsh` (sources `data/colors/pantone.zsh` + `data/colors/material.zsh`),
+   `git.zsh`, `loader.zsh`.
+6. `loader.zsh` registers stubs; the first stub call sources `lazy.zsh`.
+7. `prompt_styles.zsh` loads (prompt-style switcher + `prompt` picker command).
+8. Syntax highlighting plugin sourced inline (fast-syntax-highlighting or
+   zsh-syntax-highlighting).
+9. `ghostty.zsh` is sourced directly at the end, outside `load_module`.
+
+`colors.zsh` is no longer the very first module — `config.zsh` is. Do not
+assume color/data primitives exist during `config.zsh` or the terminal
+integration block.
 
 ### Lazy loading contract
 
@@ -306,10 +355,14 @@ reintroduce a manually maintained symbol list.
 
 ## Module Responsibilities
 
-### `modules/colors.zsh` and `modules/data/*.zsh`
+### `modules/colors.zsh` and `modules/data/colors/*.zsh`
 - Define shared terminal status colors and named color lookup/sample helpers
-- Source the Material and Pantone associative-array datasets
-- Load before modules that consume shared presentation primitives
+- Sources `data/colors/pantone.zsh` and `data/colors/material.zsh`
+  (associative-array datasets)
+- Deferred via `zsh-defer` — do not assume it has run yet in eager modules
+
+### `modules/data/lazy-symbols.zsh`
+- Data file consumed by `loader.zsh` for lazy-function symbol discovery
 
 ### `modules/config.zsh`
 - Startup-sensitive core: XDG vars, PATH assembly, OMZ plugin setup, completion config
@@ -330,9 +383,37 @@ reintroduce a manually maintained symbol list.
 - Eager aliases/functions for terminal visuals, screensavers, and system candy
 - Keep optional command dependencies guarded where practical
 
-### `modules/antigravity.zsh`
-- Sources the central AI-tool environment hub when it exists
+### `modules/ai.zsh`
+- Sources the central AI-tool environment hub when it exists (replaces old
+  `antigravity.zsh`)
 - Keep it lightweight and tolerant of the external include being absent
+
+### `modules/tagg.zsh` (+ `modules/tagg.md`)
+- macOS Finder tag CLI (`tagg COLOR TAGNAME PATH ...`)
+- Shells out to a Python helper for `.plist`/xattr tag manipulation
+
+### `modules/fzf.zsh` and `modules/fzf/*.zsh`
+- `fzf.zsh` is a thin dispatcher: loops over `modules/fzf/{core,popup,brew,
+  reference,shell,aliases,music,shortcuts}.zsh` and errors loudly if one is
+  missing/unreadable
+- Add new fzf-driven pickers as a new file under `modules/fzf/` and append it
+  to the loop list in `fzf.zsh`, rather than growing one large file
+
+### `modules/nerdfonts.zsh`
+- Nerd Font glyph lookup/reference helpers
+
+### `modules/spectrum.zsh`
+- Vendored 256-color helper (`spectrum_ls`, `spectrum_bls`) from
+  sykora/etc — leave attribution comment intact
+
+### `modules/prompt_styles.zsh`
+- Prompt-style switcher: `prompt-style <name>` and interactive `prompt` command
+- Interactive picker prefers `fzf`; falls back to the Go binary at
+  `prompt/picker/prompt-picker` (built from `prompt/picker/main.go`) when fzf
+  is unavailable
+- Presets live as TOML under `prompt/styles/` (`boxed`, `minimal`, `powerline`,
+  `time`); also detects external prompt frameworks (Pure, Powerlevel10k,
+  Spaceship) if installed
 
 ### `modules/lazy.zsh`
 - heavy and infrequent functions loaded on demand
@@ -429,7 +510,11 @@ Global style lives in `.zshrc` (`FZF_DEFAULT_OPTS`, ctrl bindings, theme). In pe
 
 ### Adjust prompt
 
-- keep prompt changes in `prompt/starship.toml`
+- Starship theme changes: `prompt/starship.toml` / `prompt/starship-terminal.toml`
+- Custom prompt-style presets: add/edit TOML under `prompt/styles/`, wire
+  switching logic in `modules/prompt_styles.zsh`
+- Picker UI itself (Go TUI): `prompt/picker/main.go`, rebuild the
+  `prompt/picker/prompt-picker` binary after changes
 - avoid coupling prompt logic into unrelated module files
 
 ---

@@ -1,9 +1,0 @@
-{
-  "name": "docs",
-  "version": "1.0.0",
-  "private": true,
-  "dependencies": {
-    "@repo/ui": "workspace:*",
-    "is-even": "^1.0.0"
-  }
-}

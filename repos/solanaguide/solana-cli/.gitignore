@@ -1,7 +1,0 @@
-node_modules/
-dist/
-*.js
-*.d.ts
-*.map
-!bin/sol.mjs
-.claude/

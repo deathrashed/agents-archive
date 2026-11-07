@@ -1,5 +1,0 @@
-{
-  "name": "OpenTelemetry",
-  "description": "Monorepo with a local OpenTelemetry Collector, Prometheus, and Grafana for metrics visualization",
-  "maintainedByCoreTeam": true
-}

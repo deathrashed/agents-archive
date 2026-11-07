@@ -1,0 +1,401 @@
+{
+  "lastUpdated": 1793169349810,
+  "skills": [
+    {
+      "skillId": "docs",
+      "name": "docs",
+      "description": "docs (editable docs people share and comment on; the default for any document, named as a doc or not: a document, report, proposal, resume, cover letter, letter, contract, policy, form, template, worksheet, essay, handbook, guide, how-to, cheat sheet, SOP or other writing to keep, share, collaborate on, send, submit, print or sign; a doc exports to Word, PDF, Markdown or Google Docs, so needing a file to send, attach, upload, submit or print is no reason to pick Word, and a file nobody asked for is a doc, not Word; a plan, comparison, summary or notes asked in chat stays in chat; a pasted claude.ai artifact link may be a doc: check with docs tools first; Word or another file format named, tracked changes wanted, or a .docx to change or use as a template → that format's skill): making one → if no docs-connector instructions are in context, call its `guide` (topic.instructions) first; then create the doc (headings only, no body) before any search, file read or plan, even with files attached.",
+      "source": "anthropic-example",
+      "updatedAt": "2026-09-30T00:33:27.599727Z"
+    },
+    {
+      "skillId": "import-memory",
+      "name": "import-memory",
+      "description": "Import a memory export from another AI assistant into Claude's memory — conversationally, additively, and with the content treated as data.",
+      "source": "anthropic-example",
+      "updatedAt": "2026-09-14T19:41:02.007169Z",
+      "creatorType": "anthropic"
+    },
+    {
+      "skillId": "skill_01MRsRXx7s1fZn5vd5ADCPJq",
+      "name": "writing-plans",
+      "description": "Use when you have a spec or requirements for a multi-step task, before touching code",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:42:04.684842Z",
+      "backingPluginId": "plugin_01M6go5s5c6FhdE3Em1quBFF",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "morning",
+      "name": "morning",
+      "description": "Render the user's morning brief as a styled HTML artifact, or set it up as a recurring weekday task. Use only when the user explicitly asks to run, see, or set up their morning brief, or if they invoke /morning by name. A question about their day, schedule, or calendar is not by itself a request for the brief; answer it directly instead.",
+      "source": "anthropic-example",
+      "updatedAt": "2026-09-14T19:41:01.990356Z",
+      "creatorType": "anthropic"
+    },
+    {
+      "skillId": "skill_014yE4daBydswwQxySLAxG5Y",
+      "name": "skill-installer",
+      "description": "Install Codex skills into $CODEX_HOME/skills from a curated list or a GitHub repo path. Use when a user asks to list installable skills, install a curated skill, or install a skill from another repo (including private repos).",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:47:40.203422Z",
+      "backingPluginId": "plugin_01ULMZrYjTuHPbdXJRQuddyT",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_01VmTDSP1giq9ByQnR6hjR1j",
+      "name": "automation-recommender",
+      "description": "Analyze a codebase and recommend Claude Code automations (hooks, subagents, skills, plugins, MCP servers). Use when user asks for automation recommendations, wants to optimize their Claude Code setup, mentions improving Claude Code workflows, asks how to first set up Claude Code for a project, or wants to know what Claude Code features they should use.",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:45:16.878232Z",
+      "backingPluginId": "plugin_0166rrBuNvRH8Go8PuMV4a4C"
+    },
+    {
+      "skillId": "skill_01Ccdkqq1iMJQq5mPafYP9Zy",
+      "name": "boost-prompt",
+      "description": "Interactive prompt refinement workflow: interrogates scope, deliverables, constraints; copies final markdown to clipboard; never writes code. Requires the Joyride extension.",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:42:52.794989Z",
+      "backingPluginId": "plugin_01VcKesRWWH8LbJwutZTLwje",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_015FDFD4pwGgbGaRA5pGSPTE",
+      "name": "receiving-code-review",
+      "description": "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:41:10.379623Z",
+      "backingPluginId": "plugin_018N1CHGft77NHAxdSLWveS8",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_01PBTgKKfBs1xqCEuZhbSNdp",
+      "name": "md-improver",
+      "description": "Audit and improve CLAUDE.md files in repositories. Use when user asks to check, audit, update, improve, or fix CLAUDE.md files. Scans for all CLAUDE.md files, evaluates quality against templates, outputs quality report, then makes targeted updates. Also use when the user mentions \"CLAUDE.md maintenance\" or \"project memory optimization\".",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:46:47.226691Z",
+      "backingPluginId": "plugin_01G7zWF8kbwUUyYp11D5qfNi",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_01YCaieoL2Mc546S1EUuA7xb",
+      "name": "subagent-driven-development",
+      "description": "Use when executing implementation plans with independent tasks in the current session",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:42:31.852623Z",
+      "backingPluginId": "plugin_01X1Wi7vNhuSg1jUtBcp5iAL"
+    },
+    {
+      "skillId": "skill_01FPtELCvU1BxasWD4de345p",
+      "name": "requesting-code-review",
+      "description": "Use when completing tasks, implementing major features, or before merging to verify work meets requirements",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:41:41.921722Z",
+      "backingPluginId": "plugin_01YJLAeQXqGQeix7VT9Xxx7w",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_01UjmbgAfSN8QfSm25F1o2dK",
+      "name": "automate-this",
+      "description": "Analyze a screen recording of a manual process and produce targeted, working automation scripts. Extracts frames and audio narration from video files, reconstructs the step-by-step workflow, and proposes automation at multiple complexity levels using tools already installed on the user machine.",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:43:23.430870Z",
+      "backingPluginId": "plugin_01WWegWECNUXfqn3DRRJweqo"
+    },
+    {
+      "skillId": "skill_0122guqgw4f9tLwkts4RLE79",
+      "name": "readme-visual",
+      "description": "Generate visually stunning README.md files following canonical local design standards. Use when creating, writing, generating, improving, refactoring, or polishing a project README.md. Also use when documenting local projects, CLI utilities, shell configs, automation pipelines, desktop apps, knowledge bases, or multimedia toolkits that require visual structure (hero blocks, badges, Iconify headers, directory trees, interactive tables, collapsible sections, video/image showcase grids).",
+      "source": "plugin",
+      "updatedAt": "2026-09-08T15:45:01.590979Z",
+      "backingPluginId": "plugin_01T5fgQSPSS7x1a7nxBB1him",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_01T2AJ2JLeFjXjP2Adn9i6RV",
+      "name": "riley-zsh-config",
+      "description": "Comprehensive expert context for Riley's macOS Zsh config at ~/.config/zsh. Use for any work on startup flow, module architecture, aliases/functions, lazy-loading, fzf UX conventions, git helpers, prompt config, shell debugging, or the repo's decorative file banners, Nerd Font section icons, separators, code comments, and visual formatting conventions.",
+      "source": "plugin",
+      "updatedAt": "2026-09-08T15:42:39.282194Z",
+      "backingPluginId": "plugin_01NZR4CfZSHiYsVP9kkFPnA9",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_013goKtnwToeegGCXG87CaLd",
+      "name": "macro-creator",
+      "description": "Use when creating or fixing Keyboard Maestro .kmmacros files, especially when import errors or schema uncertainty mean the macro must be grounded in real exports instead of guessed XML.",
+      "source": "plugin",
+      "updatedAt": "2026-09-08T15:44:13.957366Z",
+      "backingPluginId": "plugin_01JKoyVUqLWhu2jdNjycZ4he",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_01Y5jL2Q1uf7t3RGPuMtZvQS",
+      "name": "executing-plans",
+      "description": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:40:44.733701Z",
+      "backingPluginId": "plugin_01KcEtEUbR3XgUbgn1Cv1SWx"
+    },
+    {
+      "skillId": "skill_015zLovRWtQPVdYz9T8o7Wk5",
+      "name": "finishing-a-development-branch",
+      "description": "Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:40:58.297794Z",
+      "backingPluginId": "plugin_01PjR1NGGGaiXqLG1JpsZx3u",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_01NjGvLuMFTmjreV9dqiZbbd",
+      "name": "dispatching-parallel-agents",
+      "description": "Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:40:27.206141Z",
+      "backingPluginId": "plugin_01Y8bsRSmq1MkdarEN7DktsJ",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_01QSGZEDo8cH6nSNmRycm4BM",
+      "name": "using-superpowers",
+      "description": "Use when starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:38:42.276227Z",
+      "backingPluginId": "plugin_01CLw4B5PFN55LYoCpmLRvz5"
+    },
+    {
+      "skillId": "skill_01J9bf5FFNZYMoNsDAVgxNBJ",
+      "name": "macos-automation",
+      "description": "Automate macOS tasks using AppleScript, shell scripts, Shortcuts, and system commands. Use when working with macOS automation, AppleScript, Finder operations, system preferences, app automation, file management, or macOS-specific workflows.",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:38:04.708574Z",
+      "backingPluginId": "plugin_01YDXwkHGouuwNiuCe8UAt8D",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_017mcaHbpbZkSDVM8pA2wN9S",
+      "name": "writing-skills",
+      "description": "Use when creating new skills, editing existing skills, or verifying skills work before deployment",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:40:06.835915Z",
+      "backingPluginId": "plugin_01DQ55DuFrzipDHKoXLUvktG",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_01HGEGdtMb1FZTVB2YSKhaTs",
+      "name": "obsidian-markdown",
+      "description": "Create and edit Obsidian Flavored Markdown with wikilinks, embeds, callouts, properties, and other Obsidian-specific syntax. Use when working with .md files in Obsidian, or when the user mentions wikilinks, callouts, frontmatter, tags, embeds, or Obsidian notes.",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:36:42.920078Z",
+      "backingPluginId": "plugin_01RGheVycgSty1zkNwTkw3bg",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_01KLcU4j9cY818AdoDtfvm11",
+      "name": "shell-scripting",
+      "description": "Create, debug, and optimize shell scripts (bash, zsh, sh) for automation, system administration, file processing, and CLI workflows. Use when writing shell scripts, automating tasks, processing files, system administration, or working with command-line tools.",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:35:43.475728Z",
+      "backingPluginId": "plugin_01SFAHioxj3oDxcKNP7B3zAG",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_0124zMVD7XFRVQ1WbYd4jUUT",
+      "name": "file-organizer",
+      "description": "Intelligently organizes your files and folders across your computer by understanding context, finding duplicates, suggesting better structures, and automating cleanup tasks. Reduces cognitive load and keeps your digital workspace tidy without manual effort.",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:35:12.678458Z",
+      "backingPluginId": "plugin_01NjLFiRSdweCgxNh99Ti4zZ",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_01SB4pN23LigNpzB7K4vEsaw",
+      "name": "brainstorming",
+      "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation.",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:37:40.535528Z",
+      "backingPluginId": "plugin_01GqVWnPjqVfc6Kf3HRRF1tH"
+    },
+    {
+      "skillId": "skill_01GevE5tAeXh2PAEa2mFuZb5",
+      "name": "typinator",
+      "description": "General Typinator skill for syntax, forms, scripts, pickers, exports, Includes resources, and direct .tyset editing. Use when working on Typinator abbreviations, sets, scripts, menus, exports, documentation, or Typinator package structure.",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:33:39.995103Z",
+      "backingPluginId": "plugin_01S8ybvbizvnaoiLnnJpH6sL",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_017EXWEmpFe6C3RTwF94jivr",
+      "name": "swiftui-expert-skill",
+      "description": "Write, review, or improve SwiftUI code following best practices for state management, view composition, performance, macOS-specific APIs, and iOS 26+ Liquid Glass adoption. Use when building new SwiftUI features, refactoring existing views, reviewing code quality, or adopting modern SwiftUI patterns.",
+      "source": "plugin",
+      "updatedAt": "2026-03-20T02:41:01.223320Z",
+      "backingPluginId": "plugin_01YH7QUgG8f5965E61YQo9b5",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "web-artifacts-builder",
+      "name": "web-artifacts-builder",
+      "description": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts requiring state management, routing, or shadcn/ui components - not for simple single-file HTML/JSX artifacts.",
+      "source": "anthropic-example",
+      "updatedAt": "2026-09-14T19:41:01.557439Z",
+      "creatorType": "anthropic"
+    },
+    {
+      "skillId": "skill_012QZQ8nq83EJTnxkwbhpTHK",
+      "name": "riley-scripts-docs",
+      "description": "Expert knowledge of Riley's ~/Scripts documentation workflow. Use this skill whenever working on scripts in /Users/rd/Scripts, creating or updating script documentation in the Obsidian vault, categorizing scripts, naming files, renaming badly named scripts, reviewing script code, or mirroring docs to Obsidian. Also use when asked to document a script, suggest improvements to a script, find gaps in a script category, or decide where a new script should live. Trigger immediately if the user mentions ~/Scripts, Obsidian script docs, CLAUDE.md, CATEGORY_RULES, FILENAME_RULES, or script documentation in any form — even casually.",
+      "source": "plugin",
+      "updatedAt": "2026-03-18T01:26:56.266939Z",
+      "backingPluginId": "plugin_01EuXhDE1RW1egtghbLNJY5d",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "skill_01N7HYoCjTN1Eu7iJHS5gQYB",
+      "name": "obsidian-bases",
+      "description": "Create and edit Obsidian Bases (.base files) with views, filters, formulas, and summaries. Use when working with .base files, creating database-like views of notes, or when the user mentions Bases, table views, card views, filters, or formulas in Obsidian.",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:37:08.845940Z",
+      "backingPluginId": "plugin_01QLpiRRw21Giweu8DcY6A5c",
+      "creatorType": "user"
+    },
+    {
+      "skillId": "mcp-builder",
+      "name": "mcp-builder",
+      "description": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers to integrate external APIs or services, whether in Python (FastMCP) or Node/TypeScript (MCP SDK).",
+      "source": "anthropic-example",
+      "updatedAt": "2026-10-15T23:01:24.119783Z"
+    },
+    {
+      "skillId": "theme-factory",
+      "name": "theme-factory",
+      "description": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can apply to any artifact that has been creating, or can generate a new theme on-the-fly.",
+      "source": "anthropic-example",
+      "updatedAt": "2026-09-14T19:41:01.654356Z",
+      "creatorType": "anthropic"
+    },
+    {
+      "skillId": "internal-comms",
+      "name": "internal-comms",
+      "description": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some sort of internal communications (status reports, leadership updates, 3P updates, company newsletters, FAQs, incident reports, project updates, etc.).",
+      "source": "anthropic-example",
+      "updatedAt": "2026-09-14T19:41:01.586209Z",
+      "creatorType": "anthropic"
+    },
+    {
+      "skillId": "algorithmic-art",
+      "name": "algorithmic-art",
+      "description": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields, or particle systems. Create original algorithmic art rather than copying existing artists' work to avoid copyright violations.",
+      "source": "anthropic-example",
+      "updatedAt": "2026-09-14T19:41:01.521631Z",
+      "creatorType": "anthropic"
+    },
+    {
+      "skillId": "slack-gif-creator",
+      "name": "slack-gif-creator",
+      "description": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"make me a GIF of X doing Y for Slack.\"",
+      "source": "anthropic-example",
+      "updatedAt": "2026-09-14T19:41:01.634383Z",
+      "creatorType": "anthropic"
+    },
+    {
+      "skillId": "skill_01YK9FUd1css8iFJnZykKft1",
+      "name": "tampermonkey",
+      "description": "Write Tampermonkey userscripts for browser automation, page modification, and web enhancement. Use when creating browser scripts, writing greasemonkey scripts, automating user interactions, injecting CSS or JavaScript into web pages, modifying website behaviour, building browser extensions, hiding unwanted page elements, adding form auto-fill, scraping website data, intercepting requests, detecting URL changes in SPAs, or storing persistent user preferences. Covers userscript headers (@match, @grant, @require), synchronous and async GM_* API functions, common patterns (DOM mutation, URL change detection, element waiting), security sandboxing, and cross-browser compatibility (Chrome, Firefox, Edge).",
+      "source": "plugin",
+      "updatedAt": "2026-03-26T00:34:47.539772Z",
+      "backingPluginId": "plugin_016HG2so4rSTY6tJwKcqymyU"
+    },
+    {
+      "skillId": "skill-creator",
+      "name": "skill-creator",
+      "description": "Create new skills, modify and improve existing skills, and measure skill performance. Use when users want to create a skill from scratch, edit, or optimize an existing skill, run evals to test a skill, benchmark skill performance with variance analysis, or optimize a skill's description for better triggering accuracy.",
+      "source": "anthropic-example",
+      "updatedAt": "2026-10-21T20:47:56.610025Z"
+    },
+    {
+      "skillId": "brand-guidelines",
+      "name": "brand-guidelines",
+      "description": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guidelines, visual formatting, or company design standards apply.",
+      "source": "anthropic-example",
+      "updatedAt": "2026-09-14T19:41:01.567716Z",
+      "creatorType": "anthropic"
+    },
+    {
+      "skillId": "pdf",
+      "name": "pdf",
+      "description": "Use this skill whenever the user wants to do anything with PDF files. This includes reading or extracting text/tables from PDFs, combining or merging multiple PDFs into one, splitting PDFs apart, rotating pages, adding watermarks, creating new PDFs, filling PDF forms, encrypting/decrypting PDFs, extracting images, and OCR on scanned PDFs to make them searchable. If the user mentions a .pdf file or asks to produce one, use this skill.",
+      "source": "anthropic",
+      "updatedAt": "2026-07-10T19:23:15.432550Z",
+      "creatorType": "anthropic"
+    },
+    {
+      "skillId": "xlsx",
+      "name": "xlsx",
+      "description": "Use this skill any time a spreadsheet file is the primary input or output. This means any task where the user wants to: open, read, edit, or fix an existing .xlsx, .xlsm, .xltx, .csv, or .tsv file (e.g., adding columns, computing formulas, formatting, charting, cleaning messy data); create a new spreadsheet from scratch or from other data sources; or convert between tabular file formats. Trigger especially when the user references a spreadsheet file by name or path — even casually (like \"the xlsx in my downloads\") — and wants something done to it or produced from it. Also trigger for cleaning or restructuring messy tabular data files (malformed rows, misplaced headers, junk data) into proper spreadsheets. The deliverable must be a spreadsheet file. Do NOT trigger when the primary deliverable is a Word document, HTML report, standalone Python script, database pipeline, or Google Sheets API integration, even if tabular data is involved.",
+      "source": "anthropic",
+      "updatedAt": "2026-10-27T19:00:29.248939Z"
+    },
+    {
+      "skillId": "docx",
+      "name": "docx",
+      "description": "Use this skill whenever the user wants to create, read, edit, or manipulate Word documents (.docx) or Word templates (.dotx). Triggers include: any mention of Microsoft Word Documents, such as 'Word doc', 'word document', '.docx', '.dotx', 'microsoft doc'. Also use when extracting or reorganizing content from .docx or .dotx files, inserting or replacing images in documents, find-and-replace in Word files, working with tracked changes or comments, or converting content into a polished Word document. If the user asks for a deliverable as a Word or .docx file (to download, email or print), use this skill. However, if they ask for a document, page, report, memo, or notes WITHOUT naming a file format and the session offers Claude's own dedicated document or page skill or connector, use that instead, even if they will email or print it. Do NOT use for PDFs, spreadsheets, Google Docs, or coding unrelated to document generation.",
+      "source": "anthropic",
+      "updatedAt": "2026-09-30T02:00:31.677168Z"
+    },
+    {
+      "skillId": "pptx",
+      "name": "pptx",
+      "description": "Use this skill any time a .pptx or .potx file is involved in any way — as input, output, or both. This includes: creating slide decks, pitch decks, or presentations as PowerPoint (.pptx) files; reading, parsing, or extracting text from any .pptx or .potx file (even if the extracted content will be used elsewhere, like in an email, summary, or creating a different type of slide deck); editing, modifying, or updating existing presentations; combining or splitting slide files; working with templates (.potx), layouts, speaker notes, or comments. Trigger whenever the user asks for a PowerPoint or .pptx file, or references a .pptx or .potx filename, regardless of what they plan to do with the content afterward. However, when the user asks for a deck, slides, a slide deck, or a presentation without naming a file format, default to using a dedicated slide-deck artifact type or a separate slides skill if this session offers one; otherwise, use this skill.",
+      "source": "anthropic",
+      "updatedAt": "2026-10-23T23:00:21.784277Z"
+    },
+    {
+      "skillId": "canvas-design",
+      "name": "canvas-design",
+      "description": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other static piece. Create original visual designs, never copying existing artists' work to avoid copyright violations.",
+      "source": "anthropic-example",
+      "updatedAt": "2026-09-14T19:41:01.576619Z",
+      "creatorType": "anthropic"
+    },
+    {
+      "skillId": "chrome-browser",
+      "name": "chrome-browser",
+      "description": "Read this skill before the first step that uses Claude in Chrome, the browser extension whose tools are named mcp__claude-in-chrome__* (also called Chrome, the browser extension, or the external browser) and which acts in the person's real Chrome with their own sign-ins; before those tools are turned on there may be a single enable__mcp__claude-in-chrome tool instead. It covers loading the tools in one ToolSearch call, checking the person's open tabs and working in a new tab, site permissions, GIF recordings, console logs, dialogs to avoid, and when to stop and ask. It is not for the built-in browser (mcp__Claude_Browser__* or mcp__remote-devices__Claude_Browser__* tools), which has its own skill, and it does not decide which browser to use.",
+      "source": "anthropic-example",
+      "updatedAt": "2026-09-18T21:09:50.227858Z",
+      "creatorType": "anthropic"
+    },
+    {
+      "skillId": "computer-use",
+      "name": "computer-use",
+      "description": "Read this skill before the first step of any request to do something in an app on the person's own computer (Notes, Finder, System Settings, any desktop app), to look at their screen, or for \"computer use\". Computer use (desktop control) lets Claude take screenshots of the person's desktop and control it with clicks, typing and scrolling through the Claude desktop app; its tools are named mcp__computer-use__* when the session runs in the desktop app and mcp__remote-devices__computer_* when a cloud session is linked to the person's computer; before computer use is turned on for a conversation there may be no such tools, only an enable__mcp__remote-devices__computer tool, which turns it on. It covers turning it on, picking the right tool, the access flow, and the safety rules for tiered apps, links and financial actions. It is not for websites, which go through Claude in Chrome or the built-in browser and their own skills.",
+      "source": "anthropic-example",
+      "updatedAt": "2026-10-28T06:00:22.561400Z"
+    },
+    {
+      "skillId": "built-in-browser",
+      "name": "built-in-browser",
+      "description": "Read this skill before the first step that uses the built-in browser, the browser pane inside the Claude desktop app (also called the in-app browser, the browser pane, Claude's browser, or \"your own browser\"), whose tools are named mcp__Claude_Browser__* when the session runs in the desktop app and mcp__remote-devices__Claude_Browser__* when a cloud session is linked to the person's computer; before those tools are turned on there may be a single enable__mcp__remote-devices__Claude_Browser tool instead. It covers the pane's persistent sign-ins, tabs and preview_start, reading pages as text, site approvals, what the pane cannot open, and what to do when it cannot be reached. It is not for Claude in Chrome (mcp__claude-in-chrome__* tools), which has its own skill, and it does not decide which browser to use.",
+      "source": "anthropic-example",
+      "updatedAt": "2026-09-21T06:00:29.740604Z",
+      "creatorType": "anthropic"
+    },
+    {
+      "skillId": "deep-research",
+      "name": "deep-research",
+      "description": "Use this skill when the user's prompt requires (1) researching a topic across multiple sources, comparing options or alternatives, analyzing trends or history, understanding markets or industries, or reviewing literature or studies and (2) synthesizing that research into a comprehensive, narrative report. If you're planning to search the web or internal knowledge bases, consider using this skill. This skill coordinates research subagents, so use it only when you have a tool for spawning subagents (the Agent or Task tool); otherwise, research the question directly.",
+      "source": "anthropic-example",
+      "updatedAt": "2026-09-14T19:41:02.015956Z",
+      "creatorType": "anthropic"
+    },
+    {
+      "skillId": "google-workspace",
+      "name": "google-workspace",
+      "description": "Read this before the first Google Drive, Docs, Sheets or Slides connector call whenever the task creates or changes a Google file. Use this skill whenever the user wants to create or change a Google Doc, Sheet or Slides file in their Google Drive. Triggers include: a request that names Google Docs, Sheets, Slides or Drive and asks to make, edit, format, copy or rename a file; a docs.google.com link with a request to change that file, even a one-line fix or suggested edits; and any follow-up change to a Google file from earlier in the chat, even \"change it\" or \"add a tab\". Includes helper scripts for document positions, cell ranges and slide layout. However, if the user asks for a doc, deck or spreadsheet without naming Google, or gives a Google file only as source material for something new, use Claude's own output type instead. Do NOT use for read-only questions about a Google file, or for Word, Excel, PowerPoint or PDF files.",
+      "source": "anthropic-example",
+      "updatedAt": "2026-10-14T14:41:49.960676Z"
+    }
+  ]
+}

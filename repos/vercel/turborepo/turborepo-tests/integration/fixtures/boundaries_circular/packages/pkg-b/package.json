@@ -1,6 +1,0 @@
-{
-  "name": "@repo/pkg-b",
-  "dependencies": {
-    "@repo/pkg-c": "*"
-  }
-}

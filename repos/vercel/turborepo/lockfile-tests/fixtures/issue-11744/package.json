@@ -1,8 +1,0 @@
-{
-  "name": "issue-11744",
-  "private": true,
-  "workspaces": [
-    "apps/*"
-  ],
-  "packageManager": "yarn@4.5.0"
-}
