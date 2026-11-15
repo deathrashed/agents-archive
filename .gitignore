@@ -71,3 +71,14 @@ skillz/
 apps/
 platforms/
 config.json
+
+# Links to ~/projects/rd-agents (deathrashed/agents), added 2026-11-15
+/AGENTS.md
+/main.md
+/manifest.toml
+/rules/*.md
+!/rules/claude-mem-context.md
+
+# Not rd's (rd, 2026-11-11): stay on disk, untracked 2026-11-15
+/mcp/
+/knowledge/
