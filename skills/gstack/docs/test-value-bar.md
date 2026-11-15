@@ -1,1 +1,0 @@
-/Users/rd/.claude/skills/gstack/docs/test-value-bar.md

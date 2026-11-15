@@ -1,1 +1,0 @@
-/Users/rd/.claude/skills/gstack/scripts/question-registry.ts
