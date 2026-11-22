@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "758ea368-64bd-4878-b272-faf2c8b696ca",
+  "path": "plugins/other/plugin-dev/skills/agent-development",
+  "path_key": "plugins/other/plugin-dev/skills/agent-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

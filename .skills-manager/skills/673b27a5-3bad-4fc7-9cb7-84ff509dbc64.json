@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "673b27a5-3bad-4fc7-9cb7-84ff509dbc64",
+  "path": "plugins/integrations/gemini-kit/skills/tailwind",
+  "path_key": "plugins/integrations/gemini-kit/skills/tailwind",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

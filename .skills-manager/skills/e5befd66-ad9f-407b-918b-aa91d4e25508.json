@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e5befd66-ad9f-407b-918b-aa91d4e25508",
+  "path": "plugins/codex/curated-remote/figma/skills/figma-create-new-file",
+  "path_key": "plugins/codex/curated-remote/figma/skills/figma-create-new-file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

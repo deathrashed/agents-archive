@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c4f4e945-fbfc-4daa-8943-4a6f9cdf9f8e",
+  "path": "plugins/integrations/gemini-kit/skills/docker",
+  "path_key": "plugins/integrations/gemini-kit/skills/docker",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

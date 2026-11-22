@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2da15dc8-590f-4a17-821a-d6ab5c181b5a",
+  "path": "plugins/codex/curated-remote/figma/skills/figma-design-to-code",
+  "path_key": "plugins/codex/curated-remote/figma/skills/figma-design-to-code",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

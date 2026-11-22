@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a10502e9-d4d8-44e7-810d-fde17012a9f4",
+  "path": "skillz/codex/hatch-pet",
+  "path_key": "skillz/codex/hatch-pet",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

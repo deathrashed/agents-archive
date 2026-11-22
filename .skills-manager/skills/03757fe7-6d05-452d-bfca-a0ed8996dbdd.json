@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "03757fe7-6d05-452d-bfca-a0ed8996dbdd",
+  "path": "plugins/codex/curated/figma/skills/figma-create-new-file",
+  "path_key": "plugins/codex/curated/figma/skills/figma-create-new-file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ff043923-a676-4a10-9c58-c6f9908ec977",
+  "path": "skills/context-optimizer",
+  "path_key": "skills/context-optimizer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

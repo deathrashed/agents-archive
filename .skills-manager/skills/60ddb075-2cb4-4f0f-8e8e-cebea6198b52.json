@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "60ddb075-2cb4-4f0f-8e8e-cebea6198b52",
+  "path": "plugins/workflow/autocode/skills/plan-breakdown",
+  "path_key": "plugins/workflow/autocode/skills/plan-breakdown",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

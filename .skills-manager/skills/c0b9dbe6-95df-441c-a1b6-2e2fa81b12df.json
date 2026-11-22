@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c0b9dbe6-95df-441c-a1b6-2e2fa81b12df",
+  "path": "plugins/codex/curated-remote/build-macos-apps/skills/test-triage",
+  "path_key": "plugins/codex/curated-remote/build-macos-apps/skills/test-triage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

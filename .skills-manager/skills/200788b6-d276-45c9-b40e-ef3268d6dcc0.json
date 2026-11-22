@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "200788b6-d276-45c9-b40e-ef3268d6dcc0",
+  "path": "skills/swarm-advanced",
+  "path_key": "skills/swarm-advanced",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

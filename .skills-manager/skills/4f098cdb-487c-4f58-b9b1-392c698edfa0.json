@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4f098cdb-487c-4f58-b9b1-392c698edfa0",
+  "path": "skillz/codex/trace",
+  "path_key": "skillz/codex/trace",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

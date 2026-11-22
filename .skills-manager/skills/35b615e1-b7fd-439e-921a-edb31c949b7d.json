@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "35b615e1-b7fd-439e-921a-edb31c949b7d",
+  "path": "plugins/omo/skills/init-deep",
+  "path_key": "plugins/omo/skills/init-deep",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

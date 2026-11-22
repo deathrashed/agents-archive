@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2fa40b73-41e8-4a30-bb73-d578c895bc73",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/ultrawork",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/ultrawork",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

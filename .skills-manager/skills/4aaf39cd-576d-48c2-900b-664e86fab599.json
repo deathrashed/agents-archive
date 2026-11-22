@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4aaf39cd-576d-48c2-900b-664e86fab599",
+  "path": "plugins/codex/curated-remote/canva/skills/canva-bulk-create",
+  "path_key": "plugins/codex/curated-remote/canva/skills/canva-bulk-create",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

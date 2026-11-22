@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "152bc61e-341d-4901-9bcb-748458c75905",
+  "path": "plugins/platform/oh-my-antigravity/skills/deep-init",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/deep-init",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

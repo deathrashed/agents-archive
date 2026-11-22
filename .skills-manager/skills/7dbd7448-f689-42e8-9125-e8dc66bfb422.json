@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7dbd7448-f689-42e8-9125-e8dc66bfb422",
+  "path": "skills/improve",
+  "path_key": "skills/improve",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cc2f9717-4fd8-419e-a03a-86b704c8c350",
+  "path": "skills/superset/skills/panes",
+  "path_key": "skills/superset/skills/panes",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

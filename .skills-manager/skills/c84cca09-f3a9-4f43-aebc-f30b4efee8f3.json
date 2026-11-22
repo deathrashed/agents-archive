@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c84cca09-f3a9-4f43-aebc-f30b4efee8f3",
+  "path": ".agents/skills/oma-refactor",
+  "path_key": ".agents/skills/oma-refactor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

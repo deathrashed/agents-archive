@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b25032d0-221f-4836-ad4c-124e893bee88",
+  "path": "plugins/workflow/autocode/skills/domain-bind",
+  "path_key": "plugins/workflow/autocode/skills/domain-bind",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

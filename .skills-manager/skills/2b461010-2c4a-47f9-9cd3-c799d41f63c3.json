@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2b461010-2c4a-47f9-9cd3-c799d41f63c3",
+  "path": "skills/better-writing",
+  "path_key": "skills/better-writing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

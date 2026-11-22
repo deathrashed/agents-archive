@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "514ad979-225e-46fc-abe6-67733214a449",
+  "path": "plugins/codex/curated-remote/netlify/skills/netlify-ai-gateway",
+  "path_key": "plugins/codex/curated-remote/netlify/skills/netlify-ai-gateway",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

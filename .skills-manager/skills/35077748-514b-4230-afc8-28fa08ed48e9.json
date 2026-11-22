@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "35077748-514b-4230-afc8-28fa08ed48e9",
+  "path": "plugins/omo/skills/ast-grep",
+  "path_key": "plugins/omo/skills/ast-grep",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

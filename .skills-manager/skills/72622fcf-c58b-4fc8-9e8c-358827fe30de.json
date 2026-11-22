@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "72622fcf-c58b-4fc8-9e8c-358827fe30de",
+  "path": "skills/superset/skills/contribute",
+  "path_key": "skills/superset/skills/contribute",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

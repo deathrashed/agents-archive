@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "34af7031-8850-4fc1-ac43-e714c3204e8c",
+  "path": "plugins/omo/skills/refactor",
+  "path_key": "plugins/omo/skills/refactor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

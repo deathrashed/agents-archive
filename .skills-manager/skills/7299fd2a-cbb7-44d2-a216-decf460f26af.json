@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7299fd2a-cbb7-44d2-a216-decf460f26af",
+  "path": "skillz/superpowers/verification-before-completion",
+  "path_key": "skillz/superpowers/verification-before-completion",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

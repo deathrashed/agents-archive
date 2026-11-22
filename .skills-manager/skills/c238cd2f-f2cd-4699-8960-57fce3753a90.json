@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c238cd2f-f2cd-4699-8960-57fce3753a90",
+  "path": "plugins/codex/curated-remote/build-macos-apps/skills/signing-entitlements",
+  "path_key": "plugins/codex/curated-remote/build-macos-apps/skills/signing-entitlements",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

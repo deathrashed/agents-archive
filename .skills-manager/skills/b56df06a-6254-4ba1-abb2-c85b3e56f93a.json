@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b56df06a-6254-4ba1-abb2-c85b3e56f93a",
+  "path": "plugins/omo/skills/programming",
+  "path_key": "plugins/omo/skills/programming",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a297b017-1f91-4fdf-9c95-e8613c2380fb",
+  "path": "skills/ultragoal",
+  "path_key": "skills/ultragoal",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

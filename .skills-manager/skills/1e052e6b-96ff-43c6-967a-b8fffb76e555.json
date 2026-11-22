@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1e052e6b-96ff-43c6-967a-b8fffb76e555",
+  "path": "skills/ghostex-browser-use",
+  "path_key": "skills/ghostex-browser-use",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

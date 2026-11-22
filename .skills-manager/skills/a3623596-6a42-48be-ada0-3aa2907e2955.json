@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a3623596-6a42-48be-ada0-3aa2907e2955",
+  "path": "plugins/workflow/autocode/skills/celebrate",
+  "path_key": "plugins/workflow/autocode/skills/celebrate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

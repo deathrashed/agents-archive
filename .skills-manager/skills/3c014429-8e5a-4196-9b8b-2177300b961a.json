@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3c014429-8e5a-4196-9b8b-2177300b961a",
+  "path": "skills/ai-memory-routing-install",
+  "path_key": "skills/ai-memory-routing-install",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

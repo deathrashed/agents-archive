@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a7ca8491-ee5f-40f1-8b4d-6cfdf3d4fd72",
+  "path": "providers/openai/skills/.curated/openai-docs",
+  "path_key": "providers/openai/skills/.curated/openai-docs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

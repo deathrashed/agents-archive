@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fcd8819d-60cf-4d31-8528-1f4f040f4727",
+  "path": "skills/docker-buildx",
+  "path_key": "skills/docker-buildx",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

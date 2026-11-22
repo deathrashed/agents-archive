@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6093a314-b0c0-45e4-9ed5-4c69c822b4e0",
+  "path": "skills/configure-notifications",
+  "path_key": "skills/configure-notifications",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

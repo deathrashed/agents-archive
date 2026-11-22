@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9a6a1f53-ad33-4fe9-b4d6-c4bcc71d912f",
+  "path": "skills/plannotator",
+  "path_key": "skills/plannotator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

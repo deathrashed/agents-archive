@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "91cc5b65-02a4-4dae-8676-a8aebbf7e1e9",
+  "path": "providers/oma/.agents/skills/oma-pdf",
+  "path_key": "providers/oma/.agents/skills/oma-pdf",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

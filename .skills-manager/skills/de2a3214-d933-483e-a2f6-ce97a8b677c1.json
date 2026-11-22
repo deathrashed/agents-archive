@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "de2a3214-d933-483e-a2f6-ce97a8b677c1",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/reasoning",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/reasoning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

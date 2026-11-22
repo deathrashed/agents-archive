@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "be706787-b2ad-4354-b066-4436fcf66bd5",
+  "path": "skills/better-interface",
+  "path_key": "skills/better-interface",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

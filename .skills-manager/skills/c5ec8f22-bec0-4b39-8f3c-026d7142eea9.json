@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c5ec8f22-bec0-4b39-8f3c-026d7142eea9",
+  "path": "plugins/platform/oh-my-antigravity/skills/ultrawork",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/ultrawork",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

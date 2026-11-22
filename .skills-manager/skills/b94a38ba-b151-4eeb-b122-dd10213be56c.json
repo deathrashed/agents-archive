@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b94a38ba-b151-4eeb-b122-dd10213be56c",
+  "path": "providers/openai/skills/.curated/figma-create-new-file",
+  "path_key": "providers/openai/skills/.curated/figma-create-new-file",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "afea5e50-6491-471b-a653-3fec631ef680",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/cancel",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/cancel",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

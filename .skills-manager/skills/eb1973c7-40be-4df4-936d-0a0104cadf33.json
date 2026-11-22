@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eb1973c7-40be-4df4-936d-0a0104cadf33",
+  "path": "plugins/workflow/autocode/skills/decision-translate",
+  "path_key": "plugins/workflow/autocode/skills/decision-translate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

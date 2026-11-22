@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dd3bcdde-3cc0-42b1-9a59-b27b38c47ace",
+  "path": "plugins/workflow/autocode/skills/security",
+  "path_key": "plugins/workflow/autocode/skills/security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

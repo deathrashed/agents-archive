@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "76946ff4-23a1-440e-9335-08a33e9e4ef7",
+  "path": "plugins/omo/skills/ulw-loop",
+  "path_key": "plugins/omo/skills/ulw-loop",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

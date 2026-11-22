@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ba334165-4fde-44d7-ba4f-e11cdcc7a34b",
+  "path": "providers/cursor/skills/create-rule",
+  "path_key": "providers/cursor/skills/create-rule",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

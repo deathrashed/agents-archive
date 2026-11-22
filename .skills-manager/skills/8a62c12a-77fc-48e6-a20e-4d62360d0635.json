@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8a62c12a-77fc-48e6-a20e-4d62360d0635",
+  "path": "plugins/workflow/autocode/skills/cost-explain",
+  "path_key": "plugins/workflow/autocode/skills/cost-explain",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "800b0660-eeff-4ec2-9446-f8abd51e5734",
+  "path": "skills/migrate-to-skills",
+  "path_key": "skills/migrate-to-skills",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af93ce22-5a3c-48f3-ab5f-4caa37541197",
+  "path": "plugins/workflow/autocode/skills/plan-risk",
+  "path_key": "plugins/workflow/autocode/skills/plan-risk",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

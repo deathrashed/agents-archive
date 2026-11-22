@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "87c2270c-ea3c-43e9-8c1f-5f33e04c5fba",
+  "path": "plugins/workflow/autocode/skills/daily-summary",
+  "path_key": "plugins/workflow/autocode/skills/daily-summary",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

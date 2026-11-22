@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3cd9b848-d74b-408f-ab72-a06925128275",
+  "path": "plugins/codex/curated/figma/skills/figma-generate-diagram",
+  "path_key": "plugins/codex/curated/figma/skills/figma-generate-diagram",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

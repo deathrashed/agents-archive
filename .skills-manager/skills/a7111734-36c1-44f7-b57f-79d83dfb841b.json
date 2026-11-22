@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a7111734-36c1-44f7-b57f-79d83dfb841b",
+  "path": "skills/doctor",
+  "path_key": "skills/doctor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

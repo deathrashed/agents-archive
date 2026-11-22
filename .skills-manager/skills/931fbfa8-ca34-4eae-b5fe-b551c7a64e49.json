@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "931fbfa8-ca34-4eae-b5fe-b551c7a64e49",
+  "path": "skills/ai-memory-messaging",
+  "path_key": "skills/ai-memory-messaging",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

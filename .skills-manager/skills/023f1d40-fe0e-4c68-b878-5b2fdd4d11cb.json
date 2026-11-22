@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "023f1d40-fe0e-4c68-b878-5b2fdd4d11cb",
+  "path": "plugins/integrations/gemini-kit/skills/compound-docs",
+  "path_key": "plugins/integrations/gemini-kit/skills/compound-docs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

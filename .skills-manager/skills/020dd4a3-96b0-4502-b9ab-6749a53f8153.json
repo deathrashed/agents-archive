@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "020dd4a3-96b0-4502-b9ab-6749a53f8153",
+  "path": "plugins/codex/curated/build-ios-apps/skills/ios-app-intents",
+  "path_key": "plugins/codex/curated/build-ios-apps/skills/ios-app-intents",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

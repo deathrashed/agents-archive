@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b9b93f82-175d-4d10-8175-a2b922ba5fe8",
+  "path": "skills/source-command-coordination-init",
+  "path_key": "skills/source-command-coordination-init",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

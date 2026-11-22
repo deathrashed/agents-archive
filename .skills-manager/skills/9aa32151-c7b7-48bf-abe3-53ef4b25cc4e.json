@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9aa32151-c7b7-48bf-abe3-53ef4b25cc4e",
+  "path": "plugins/platform/oh-my-antigravity/skills/stop",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/stop",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

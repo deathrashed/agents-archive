@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fccf3f2d-a641-4962-ace3-2765fe5cf994",
+  "path": "plugins/codex/curated/notion/skills/notion-meeting-intelligence",
+  "path_key": "plugins/codex/curated/notion/skills/notion-meeting-intelligence",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

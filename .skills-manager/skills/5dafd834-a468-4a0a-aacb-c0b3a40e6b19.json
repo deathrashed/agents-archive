@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5dafd834-a468-4a0a-aacb-c0b3a40e6b19",
+  "path": "skillz/dev-workflows/productivity",
+  "path_key": "skillz/dev-workflows/productivity",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2e7649ba-6195-4313-9911-66477ca975f2",
+  "path": "plugins/codex/curated-remote/gmail/skills/gmail",
+  "path_key": "plugins/codex/curated-remote/gmail/skills/gmail",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "15df22b1-fb72-4514-9514-2a3e44d97d4e",
+  "path": "providers/openai/skills/.curated/render-deploy",
+  "path_key": "providers/openai/skills/.curated/render-deploy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

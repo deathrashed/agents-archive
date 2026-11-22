@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f2cc329e-80c3-4850-a841-b1697caacf7c",
+  "path": "skillz/codex/plan",
+  "path_key": "skillz/codex/plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

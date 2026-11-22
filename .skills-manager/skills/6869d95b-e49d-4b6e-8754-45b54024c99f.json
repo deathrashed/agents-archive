@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6869d95b-e49d-4b6e-8754-45b54024c99f",
+  "path": "skillz/riley/typinator-directory-ingest",
+  "path_key": "skillz/riley/typinator-directory-ingest",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

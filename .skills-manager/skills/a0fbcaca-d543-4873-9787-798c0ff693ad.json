@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a0fbcaca-d543-4873-9787-798c0ff693ad",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/team-assemble",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/team-assemble",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

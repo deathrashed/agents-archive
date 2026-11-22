@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "957f05cd-5c8a-4b11-8e0d-5f9e6c3d4c04",
+  "path": ".agents/skills/oma-video",
+  "path_key": ".agents/skills/oma-video",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

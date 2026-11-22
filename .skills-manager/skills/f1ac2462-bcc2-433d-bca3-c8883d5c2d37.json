@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f1ac2462-bcc2-433d-bca3-c8883d5c2d37",
+  "path": "plugins/codex/curated/build-ios-apps/skills/ios-memgraph-leaks",
+  "path_key": "plugins/codex/curated/build-ios-apps/skills/ios-memgraph-leaks",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

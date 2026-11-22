@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "88818f18-71c0-4da0-a2de-7ac84397daf7",
+  "path": "providers/openai/skills/.curated/figma-implement-design",
+  "path_key": "providers/openai/skills/.curated/figma-implement-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

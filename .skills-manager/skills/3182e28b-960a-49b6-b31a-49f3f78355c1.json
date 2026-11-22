@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3182e28b-960a-49b6-b31a-49f3f78355c1",
+  "path": "skills/git-guardrails-claude-code",
+  "path_key": "skills/git-guardrails-claude-code",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "36df0b0b-533c-4e87-b0c5-0e2ae45a5f7b",
+  "path": "plugins/codex/curated/github/skills/github",
+  "path_key": "plugins/codex/curated/github/skills/github",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e9c9c7ed-9be8-419d-9840-252de98ad67f",
+  "path": "skills/teardown",
+  "path_key": "skills/teardown",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

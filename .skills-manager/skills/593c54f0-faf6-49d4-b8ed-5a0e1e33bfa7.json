@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "593c54f0-faf6-49d4-b8ed-5a0e1e33bfa7",
+  "path": "plugins/codex/curated-remote/build-ios-apps/skills/ios-app-intents",
+  "path_key": "plugins/codex/curated-remote/build-ios-apps/skills/ios-app-intents",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

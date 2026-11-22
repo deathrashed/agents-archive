@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "029a32f7-f9a9-44f1-b2bf-608b6ae83615",
+  "path": "skillz/codex/doctor",
+  "path_key": "skillz/codex/doctor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

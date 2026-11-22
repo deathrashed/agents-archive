@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "24670d7f-96a4-42df-8c6f-613eead38117",
+  "path": "skills/superset/skills/computer",
+  "path_key": "skills/superset/skills/computer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

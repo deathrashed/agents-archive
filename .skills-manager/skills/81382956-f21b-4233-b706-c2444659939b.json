@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "81382956-f21b-4233-b706-c2444659939b",
+  "path": "plugins/other/plugin-dev/skills/skill-development",
+  "path_key": "plugins/other/plugin-dev/skills/skill-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

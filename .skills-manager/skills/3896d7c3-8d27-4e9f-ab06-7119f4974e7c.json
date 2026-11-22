@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3896d7c3-8d27-4e9f-ab06-7119f4974e7c",
+  "path": "plugins/codex/curated/build-ios-apps/skills/swiftui-view-refactor",
+  "path_key": "plugins/codex/curated/build-ios-apps/skills/swiftui-view-refactor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

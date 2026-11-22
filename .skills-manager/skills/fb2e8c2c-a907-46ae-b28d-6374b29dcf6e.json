@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fb2e8c2c-a907-46ae-b28d-6374b29dcf6e",
+  "path": "skills/docker-hub",
+  "path_key": "skills/docker-hub",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

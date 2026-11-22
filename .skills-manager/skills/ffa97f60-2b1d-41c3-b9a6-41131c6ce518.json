@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ffa97f60-2b1d-41c3-b9a6-41131c6ce518",
+  "path": "providers/openai/skills/.curated/chatgpt-apps",
+  "path_key": "providers/openai/skills/.curated/chatgpt-apps",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

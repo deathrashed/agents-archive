@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c72a6c99-6f8d-43f5-83d9-79897eb832bc",
+  "path": "plugins/codex/curated/build-web-apps/skills/shadcn-best-practices",
+  "path_key": "plugins/codex/curated/build-web-apps/skills/shadcn-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "556180a8-df20-434e-9d1c-fbec6422d100",
+  "path": "plugins/codex/curated/github/skills/gh-fix-ci",
+  "path_key": "plugins/codex/curated/github/skills/gh-fix-ci",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

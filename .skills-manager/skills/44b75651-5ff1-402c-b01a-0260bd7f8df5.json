@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "44b75651-5ff1-402c-b01a-0260bd7f8df5",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/consensus",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/consensus",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

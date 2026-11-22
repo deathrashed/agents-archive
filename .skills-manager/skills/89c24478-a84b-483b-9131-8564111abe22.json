@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "89c24478-a84b-483b-9131-8564111abe22",
+  "path": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-business-review",
+  "path_key": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-business-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

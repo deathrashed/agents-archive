@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "da9c0c39-d483-459b-ab73-8c3667849ffc",
+  "path": "skills/domain-modeling",
+  "path_key": "skills/domain-modeling",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

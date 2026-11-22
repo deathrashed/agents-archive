@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f6eed63f-02f8-4a33-a772-6b12c98019d7",
+  "path": "skillz/codex/ultrawork",
+  "path_key": "skillz/codex/ultrawork",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1a768f90-2adf-4f0a-9c64-fe1c14657842",
+  "path": "plugins/workflow/autocode/skills/fix-observe",
+  "path_key": "plugins/workflow/autocode/skills/fix-observe",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

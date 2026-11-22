@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e45a11b9-275f-45d5-803e-aef4a959c3de",
+  "path": "plugins/codex/omx-product/skills/team",
+  "path_key": "plugins/codex/omx-product/skills/team",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

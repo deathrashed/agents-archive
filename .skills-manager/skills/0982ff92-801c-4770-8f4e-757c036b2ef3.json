@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0982ff92-801c-4770-8f4e-757c036b2ef3",
+  "path": "plugins/codex/curated-remote/netlify/skills/netlify-cli-and-deploy",
+  "path_key": "plugins/codex/curated-remote/netlify/skills/netlify-cli-and-deploy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

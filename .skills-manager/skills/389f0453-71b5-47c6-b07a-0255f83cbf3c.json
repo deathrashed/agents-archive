@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "389f0453-71b5-47c6-b07a-0255f83cbf3c",
+  "path": "plugins/omo/skills/ulw-research",
+  "path_key": "plugins/omo/skills/ulw-research",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

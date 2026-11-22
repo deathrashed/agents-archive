@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a839db98-8436-4dde-9b68-40db65c7dfb8",
+  "path": "plugins/codex/curated-remote/build-macos-apps/skills/build-run-debug",
+  "path_key": "plugins/codex/curated-remote/build-macos-apps/skills/build-run-debug",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

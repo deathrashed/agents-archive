@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bd9000b8-0d26-47bf-9b17-1274ceff3666",
+  "path": ".agents/skills/oma-debug",
+  "path_key": ".agents/skills/oma-debug",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

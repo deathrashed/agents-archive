@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c1092023-cd0d-479e-b4ab-ca598ce75f3a",
+  "path": ".agents/skills/oma-coordination",
+  "path_key": ".agents/skills/oma-coordination",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

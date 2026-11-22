@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "148b1bf3-7bd8-4587-8974-666e5b72fc0f",
+  "path": "plugins/codex/curated/figma/skills/figma-use-motion",
+  "path_key": "plugins/codex/curated/figma/skills/figma-use-motion",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

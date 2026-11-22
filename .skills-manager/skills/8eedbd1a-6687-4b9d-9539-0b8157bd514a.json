@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8eedbd1a-6687-4b9d-9539-0b8157bd514a",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/stop",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/stop",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

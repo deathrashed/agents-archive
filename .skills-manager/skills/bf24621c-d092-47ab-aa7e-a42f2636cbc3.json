@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bf24621c-d092-47ab-aa7e-a42f2636cbc3",
+  "path": "providers/oma/.agents/skills/oma-scm",
+  "path_key": "providers/oma/.agents/skills/oma-scm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

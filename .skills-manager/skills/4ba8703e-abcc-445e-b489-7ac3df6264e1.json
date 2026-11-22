@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4ba8703e-abcc-445e-b489-7ac3df6264e1",
+  "path": "skills/textual-tui",
+  "path_key": "skills/textual-tui",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

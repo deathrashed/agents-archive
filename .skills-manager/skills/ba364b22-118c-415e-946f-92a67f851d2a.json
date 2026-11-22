@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ba364b22-118c-415e-946f-92a67f851d2a",
+  "path": "plugins/integrations/gemini-kit/skills/brainstorm",
+  "path_key": "plugins/integrations/gemini-kit/skills/brainstorm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

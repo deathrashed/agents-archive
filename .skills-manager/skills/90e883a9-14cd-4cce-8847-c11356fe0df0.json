@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "90e883a9-14cd-4cce-8847-c11356fe0df0",
+  "path": "plugins/codex/curated/build-web-apps/skills/stripe-best-practices",
+  "path_key": "plugins/codex/curated/build-web-apps/skills/stripe-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

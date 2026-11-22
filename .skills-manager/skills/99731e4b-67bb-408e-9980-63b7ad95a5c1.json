@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "99731e4b-67bb-408e-9980-63b7ad95a5c1",
+  "path": "plugins/codex/curated/build-web-apps/skills/frontend-testing-debugging",
+  "path_key": "plugins/codex/curated/build-web-apps/skills/frontend-testing-debugging",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

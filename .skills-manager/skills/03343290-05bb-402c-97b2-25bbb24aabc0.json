@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "03343290-05bb-402c-97b2-25bbb24aabc0",
+  "path": "skills/source-command-memory-neural",
+  "path_key": "skills/source-command-memory-neural",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

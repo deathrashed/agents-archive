@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3a8cdda7-59b3-4d6d-83a4-9ca80d9b7716",
+  "path": "plugins/platform/oh-my-antigravity/skills/hud-on",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/hud-on",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

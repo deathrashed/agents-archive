@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "11c5c858-ffb1-48f1-b055-2c0b32cad804",
+  "path": "skills/config",
+  "path_key": "skills/config",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

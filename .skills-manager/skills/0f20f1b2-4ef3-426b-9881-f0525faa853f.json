@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0f20f1b2-4ef3-426b-9881-f0525faa853f",
+  "path": ".agents/skills/oma-qa",
+  "path_key": ".agents/skills/oma-qa",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

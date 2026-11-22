@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "07331c74-6840-44cb-9092-1b1e5e0a2bcc",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/hooks-test",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/hooks-test",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

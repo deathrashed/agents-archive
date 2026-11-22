@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f8b26a26-053d-454c-a566-2861a9230309",
+  "path": "providers/openai/skills/.curated/jupyter-notebook",
+  "path_key": "providers/openai/skills/.curated/jupyter-notebook",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

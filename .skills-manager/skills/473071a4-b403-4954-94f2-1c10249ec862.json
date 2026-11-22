@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "473071a4-b403-4954-94f2-1c10249ec862",
+  "path": "plugins/codex/curated-remote/figma/skills/figma-use",
+  "path_key": "plugins/codex/curated-remote/figma/skills/figma-use",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

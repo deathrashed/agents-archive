@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4d57a47f-a5f3-4dd5-a789-0f905f0881b9",
+  "path": "providers/openai/skills/.curated/netlify-deploy",
+  "path_key": "providers/openai/skills/.curated/netlify-deploy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

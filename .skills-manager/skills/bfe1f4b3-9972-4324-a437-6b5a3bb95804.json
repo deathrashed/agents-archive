@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bfe1f4b3-9972-4324-a437-6b5a3bb95804",
+  "path": "providers/openai/skills/.curated/gh-fix-ci",
+  "path_key": "providers/openai/skills/.curated/gh-fix-ci",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

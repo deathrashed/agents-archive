@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "662cbb80-c9ff-402a-aae8-527e91b0bcb1",
+  "path": ".agents/skills/oma-orchestrator",
+  "path_key": ".agents/skills/oma-orchestrator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7818c5d2-c698-4751-93a7-3a1322e565a7",
+  "path": "plugins/codex/curated-remote/canva/skills/canva-resize-for-all-social-media",
+  "path_key": "plugins/codex/curated-remote/canva/skills/canva-resize-for-all-social-media",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

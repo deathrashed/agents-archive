@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d666c93c-1c0c-410c-b631-ca8e4b444a24",
+  "path": "providers/openai/skills/.curated/sentry",
+  "path_key": "providers/openai/skills/.curated/sentry",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

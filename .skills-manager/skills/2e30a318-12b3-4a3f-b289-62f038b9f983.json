@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2e30a318-12b3-4a3f-b289-62f038b9f983",
+  "path": "providers/openai/skills/.curated/spreadsheet",
+  "path_key": "providers/openai/skills/.curated/spreadsheet",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

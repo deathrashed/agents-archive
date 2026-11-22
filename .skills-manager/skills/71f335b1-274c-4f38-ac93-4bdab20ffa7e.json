@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "71f335b1-274c-4f38-ac93-4bdab20ffa7e",
+  "path": "skills/cmux-keyboard-shortcuts",
+  "path_key": "skills/cmux-keyboard-shortcuts",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

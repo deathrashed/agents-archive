@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "756e0654-2fbf-4bee-b4a5-c4b411367b1d",
+  "path": "plugins/platform/claude-code-setup/skills/claude-automation-recommender",
+  "path_key": "plugins/platform/claude-code-setup/skills/claude-automation-recommender",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

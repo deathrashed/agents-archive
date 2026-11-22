@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c84c746f-970b-468c-900a-11ac9d0a5d38",
+  "path": "plugins/integrations/gemini-kit/skills/ticket",
+  "path_key": "plugins/integrations/gemini-kit/skills/ticket",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

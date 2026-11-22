@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d76f1d77-fe6e-4668-bed9-2ac939e6c36e",
+  "path": "plugins/workflow/autocode/skills/full-review",
+  "path_key": "plugins/workflow/autocode/skills/full-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

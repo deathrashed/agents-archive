@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "00eee662-0aff-477a-824c-a6ba0bd4bac5",
+  "path": "plugins/codex/curated/stripe/skills/stripe-best-practices",
+  "path_key": "plugins/codex/curated/stripe/skills/stripe-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

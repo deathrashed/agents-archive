@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d1d22099-7214-4ace-9b6f-5f5b8298a96e",
+  "path": "plugins/codex/curated/hugging-face/skills/vision-trainer",
+  "path_key": "plugins/codex/curated/hugging-face/skills/vision-trainer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

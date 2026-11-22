@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "876c4dab-cbcc-4d63-b63d-e4d0a92927cc",
+  "path": "skillz/codex/autoresearch",
+  "path_key": "skillz/codex/autoresearch",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "49ea5273-53bd-40fb-834a-980823769735",
+  "path": "skills/improve-architecture",
+  "path_key": "skills/improve-architecture",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

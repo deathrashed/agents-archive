@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d0d12a7f-6313-4e5b-82f0-6f7a03502164",
+  "path": "skills/agentdb-vector-search",
+  "path_key": "skills/agentdb-vector-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

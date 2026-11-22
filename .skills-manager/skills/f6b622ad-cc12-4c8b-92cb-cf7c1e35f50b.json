@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f6b622ad-cc12-4c8b-92cb-cf7c1e35f50b",
+  "path": "skills/wizard",
+  "path_key": "skills/wizard",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "350a0f6a-fcdc-43bc-a740-caf8568b2d59",
+  "path": "plugins/codex/curated/hugging-face/skills/gradio",
+  "path_key": "plugins/codex/curated/hugging-face/skills/gradio",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

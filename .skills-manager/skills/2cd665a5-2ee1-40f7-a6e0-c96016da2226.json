@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2cd665a5-2ee1-40f7-a6e0-c96016da2226",
+  "path": "plugins/platform/oh-my-antigravity/skills/oma-plan",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/oma-plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

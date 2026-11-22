@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7ef7f58f-b504-47d7-80b8-79106fb9d6a3",
+  "path": "skills/docker-dockerfile",
+  "path_key": "skills/docker-dockerfile",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

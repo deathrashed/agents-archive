@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c3eb62a6-8548-4f1c-bc20-e1c012134ff3",
+  "path": "skillz/superpowers/finishing-a-development-branch",
+  "path_key": "skillz/superpowers/finishing-a-development-branch",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

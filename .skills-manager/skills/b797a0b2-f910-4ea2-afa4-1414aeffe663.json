@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b797a0b2-f910-4ea2-afa4-1414aeffe663",
+  "path": "skills/thoroughness-scoring",
+  "path_key": "skills/thoroughness-scoring",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

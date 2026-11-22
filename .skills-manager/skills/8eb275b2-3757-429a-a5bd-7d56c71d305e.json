@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8eb275b2-3757-429a-a5bd-7d56c71d305e",
+  "path": "skills/orca-cli",
+  "path_key": "skills/orca-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ca40bce8-26fb-4603-9f76-a3f4ca2aca33",
+  "path": "skills/better-layout",
+  "path_key": "skills/better-layout",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

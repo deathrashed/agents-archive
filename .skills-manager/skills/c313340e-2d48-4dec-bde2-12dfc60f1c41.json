@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c313340e-2d48-4dec-bde2-12dfc60f1c41",
+  "path": "skills/superset-page",
+  "path_key": "skills/superset-page",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

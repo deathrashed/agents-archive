@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a1e80d66-87f3-46c4-984f-f1abab701540",
+  "path": "plugins/workflow/autocode/skills/milestone",
+  "path_key": "plugins/workflow/autocode/skills/milestone",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "94991d73-47f3-4f7e-b6e9-18803dfd6d5f",
+  "path": "skillz/system/api-setup",
+  "path_key": "skillz/system/api-setup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "23e43c9e-b524-44a9-b6e2-5398f0d5c126",
+  "path": "skills/unslop",
+  "path_key": "skills/unslop",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

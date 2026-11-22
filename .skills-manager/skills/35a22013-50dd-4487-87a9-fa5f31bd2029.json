@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "35a22013-50dd-4487-87a9-fa5f31bd2029",
+  "path": "skills/mui-docs",
+  "path_key": "skills/mui-docs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

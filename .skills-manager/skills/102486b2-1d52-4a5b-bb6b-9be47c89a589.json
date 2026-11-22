@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "102486b2-1d52-4a5b-bb6b-9be47c89a589",
+  "path": "plugins/codex/curated/figma/skills/figma-use",
+  "path_key": "plugins/codex/curated/figma/skills/figma-use",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

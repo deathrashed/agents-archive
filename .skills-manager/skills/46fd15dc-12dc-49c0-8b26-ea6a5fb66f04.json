@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "46fd15dc-12dc-49c0-8b26-ea6a5fb66f04",
+  "path": "skills/design-engineering",
+  "path_key": "skills/design-engineering",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cd857d64-0ac1-4bc6-9da5-898b2b1f3bdf",
+  "path": "skills/ai-research-reproduction",
+  "path_key": "skills/ai-research-reproduction",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

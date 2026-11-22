@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "243642e1-7169-4d94-8c83-99552c161856",
+  "path": "skills/stream-chain",
+  "path_key": "skills/stream-chain",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

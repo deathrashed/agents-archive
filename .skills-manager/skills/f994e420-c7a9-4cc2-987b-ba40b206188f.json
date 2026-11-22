@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f994e420-c7a9-4cc2-987b-ba40b206188f",
+  "path": "providers/openai/skills/.curated/sora",
+  "path_key": "providers/openai/skills/.curated/sora",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

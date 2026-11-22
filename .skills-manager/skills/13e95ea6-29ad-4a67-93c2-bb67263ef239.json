@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "13e95ea6-29ad-4a67-93c2-bb67263ef239",
+  "path": "skills/gstack/office-hours",
+  "path_key": "skills/gstack/office-hours",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

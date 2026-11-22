@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a03b32e6-a6ee-40cc-84f0-b4935fc5e227",
+  "path": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-strategy-memorandum",
+  "path_key": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-strategy-memorandum",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cb1faaee-8f16-49ad-8c5a-a5ddfcdd4794",
+  "path": "skills/verification-quality",
+  "path_key": "skills/verification-quality",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

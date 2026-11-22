@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1f15cd40-8daa-4c3f-bae5-d23dff29dd3d",
+  "path": "skills/modern-web-guidance",
+  "path_key": "skills/modern-web-guidance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

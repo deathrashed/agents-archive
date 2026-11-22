@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ac383cf1-ed84-415d-9b29-d2be943e5cd3",
+  "path": "plugins/omo/skills/git-master",
+  "path_key": "plugins/omo/skills/git-master",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

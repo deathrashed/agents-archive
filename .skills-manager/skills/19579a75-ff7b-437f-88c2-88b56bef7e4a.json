@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "19579a75-ff7b-437f-88c2-88b56bef7e4a",
+  "path": "skillz/coding/python",
+  "path_key": "skillz/coding/python",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

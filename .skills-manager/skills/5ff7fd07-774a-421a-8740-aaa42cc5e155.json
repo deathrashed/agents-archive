@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5ff7fd07-774a-421a-8740-aaa42cc5e155",
+  "path": "providers/openai/skills/.curated/vercel-deploy",
+  "path_key": "providers/openai/skills/.curated/vercel-deploy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

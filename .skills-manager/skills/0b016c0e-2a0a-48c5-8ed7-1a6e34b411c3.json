@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0b016c0e-2a0a-48c5-8ed7-1a6e34b411c3",
+  "path": "plugins/workflow/autocode/skills/progress-report",
+  "path_key": "plugins/workflow/autocode/skills/progress-report",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

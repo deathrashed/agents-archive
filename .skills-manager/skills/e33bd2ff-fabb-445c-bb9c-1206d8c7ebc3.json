@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e33bd2ff-fabb-445c-bb9c-1206d8c7ebc3",
+  "path": "plugins/integrations/gemini-kit/skills/security",
+  "path_key": "plugins/integrations/gemini-kit/skills/security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

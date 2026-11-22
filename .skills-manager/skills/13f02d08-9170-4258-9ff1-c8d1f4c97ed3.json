@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "13f02d08-9170-4258-9ff1-c8d1f4c97ed3",
+  "path": "skills/wiki-builder",
+  "path_key": "skills/wiki-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

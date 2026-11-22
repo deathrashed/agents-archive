@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0145c18a-4ddd-432e-97f0-cffcf99866b7",
+  "path": "skills/permission-tuner",
+  "path_key": "skills/permission-tuner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

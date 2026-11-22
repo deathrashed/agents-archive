@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c1841aa9-2ea7-42a5-a69f-f9933f75daac",
+  "path": "skills/sparc-methodology",
+  "path_key": "skills/sparc-methodology",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

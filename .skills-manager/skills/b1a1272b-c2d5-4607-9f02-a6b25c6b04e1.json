@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b1a1272b-c2d5-4607-9f02-a6b25c6b04e1",
+  "path": "skills/last30days",
+  "path_key": "skills/last30days",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

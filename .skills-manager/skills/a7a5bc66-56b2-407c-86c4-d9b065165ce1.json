@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a7a5bc66-56b2-407c-86c4-d9b065165ce1",
+  "path": "skillz/superpowers/requesting-code-review",
+  "path_key": "skillz/superpowers/requesting-code-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

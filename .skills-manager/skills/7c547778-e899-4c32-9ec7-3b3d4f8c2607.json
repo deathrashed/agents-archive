@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7c547778-e899-4c32-9ec7-3b3d4f8c2607",
+  "path": "plugins/integrations/gemini-kit/skills/nextjs",
+  "path_key": "plugins/integrations/gemini-kit/skills/nextjs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

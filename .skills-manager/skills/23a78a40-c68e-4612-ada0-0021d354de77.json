@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "23a78a40-c68e-4612-ada0-0021d354de77",
+  "path": "skills/state-machine",
+  "path_key": "skills/state-machine",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

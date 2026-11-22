@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6932a786-8017-4ca3-98df-b5760e9ce09d",
+  "path": "plugins/integrations/gemini-kit/skills/project",
+  "path_key": "plugins/integrations/gemini-kit/skills/project",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

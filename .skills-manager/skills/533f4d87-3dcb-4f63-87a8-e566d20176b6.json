@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "533f4d87-3dcb-4f63-87a8-e566d20176b6",
+  "path": "plugins/other/plugin-dev/skills/hook-development",
+  "path_key": "plugins/other/plugin-dev/skills/hook-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

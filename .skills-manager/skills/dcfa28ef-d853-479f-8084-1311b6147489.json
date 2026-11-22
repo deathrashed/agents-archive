@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dcfa28ef-d853-479f-8084-1311b6147489",
+  "path": "plugins/codex/curated/build-web-apps/skills/react-best-practices",
+  "path_key": "plugins/codex/curated/build-web-apps/skills/react-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

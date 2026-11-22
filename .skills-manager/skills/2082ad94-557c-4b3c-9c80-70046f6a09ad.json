@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2082ad94-557c-4b3c-9c80-70046f6a09ad",
+  "path": ".agents/skills/oma-observability",
+  "path_key": ".agents/skills/oma-observability",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

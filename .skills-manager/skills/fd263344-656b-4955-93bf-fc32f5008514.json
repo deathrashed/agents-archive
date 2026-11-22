@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fd263344-656b-4955-93bf-fc32f5008514",
+  "path": "skillz/superpowers/writing-plans",
+  "path_key": "skillz/superpowers/writing-plans",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

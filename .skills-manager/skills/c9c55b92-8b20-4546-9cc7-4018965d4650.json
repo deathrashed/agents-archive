@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c9c55b92-8b20-4546-9cc7-4018965d4650",
+  "path": "skills/.system/review-agent",
+  "path_key": "skills/.system/review-agent",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

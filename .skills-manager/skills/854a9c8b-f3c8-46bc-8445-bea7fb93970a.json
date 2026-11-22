@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "854a9c8b-f3c8-46bc-8445-bea7fb93970a",
+  "path": "skills/docker-scout",
+  "path_key": "skills/docker-scout",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

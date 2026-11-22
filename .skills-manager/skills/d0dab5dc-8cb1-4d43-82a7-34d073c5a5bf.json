@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d0dab5dc-8cb1-4d43-82a7-34d073c5a5bf",
+  "path": "plugins/workflow/autocode/skills/ask-smart",
+  "path_key": "plugins/workflow/autocode/skills/ask-smart",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

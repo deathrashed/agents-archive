@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4ae6da79-bd83-4082-8c30-750879eb1c4c",
+  "path": "skills/skill-optimizer",
+  "path_key": "skills/skill-optimizer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

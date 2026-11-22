@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "710cfab4-4d46-4a3d-a7db-887f38204937",
+  "path": "plugins/integrations/maestro/skills/compliance-check",
+  "path_key": "plugins/integrations/maestro/skills/compliance-check",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

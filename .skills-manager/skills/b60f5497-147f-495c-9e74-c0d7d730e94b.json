@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b60f5497-147f-495c-9e74-c0d7d730e94b",
+  "path": "skills/auto-setup",
+  "path_key": "skills/auto-setup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

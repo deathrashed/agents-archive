@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "096f1547-f00a-4618-b632-bbd11a2ddb04",
+  "path": "plugins/platform/oh-my-antigravity/skills/interview",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/interview",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

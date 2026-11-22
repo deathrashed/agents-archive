@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1a0e449e-102b-4d33-9ffa-4a61d66cdefa",
+  "path": "skills/bug-capture",
+  "path_key": "skills/bug-capture",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

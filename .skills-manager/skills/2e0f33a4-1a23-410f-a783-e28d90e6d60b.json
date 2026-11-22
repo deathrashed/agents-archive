@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2e0f33a4-1a23-410f-a783-e28d90e6d60b",
+  "path": "plugins/codex/curated/figma/skills/figma-code-connect",
+  "path_key": "plugins/codex/curated/figma/skills/figma-code-connect",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

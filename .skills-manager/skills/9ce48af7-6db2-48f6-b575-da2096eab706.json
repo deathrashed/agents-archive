@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9ce48af7-6db2-48f6-b575-da2096eab706",
+  "path": "plugins/platform/oh-my-antigravity/skills/doctor",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/doctor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

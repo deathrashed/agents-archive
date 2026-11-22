@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7f96a331-3cbb-419d-b659-9b90ea7dd6fe",
+  "path": "plugins/codex/curated-remote/build-macos-apps/skills/swiftui-patterns",
+  "path_key": "plugins/codex/curated-remote/build-macos-apps/skills/swiftui-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

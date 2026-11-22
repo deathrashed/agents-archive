@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af5c66f3-a76d-4264-a867-2519d3f33c89",
+  "path": "plugins/codex/curated-remote/canva/skills/canva-implement-feedback",
+  "path_key": "plugins/codex/curated-remote/canva/skills/canva-implement-feedback",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

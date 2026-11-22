@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b769cc85-195d-4780-b599-404b9eb2805a",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/learn",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/learn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

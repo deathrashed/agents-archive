@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3daf1c0c-2390-4364-a3b9-6bb6e60e317b",
+  "path": "skills/plannotator-inbox",
+  "path_key": "skills/plannotator-inbox",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

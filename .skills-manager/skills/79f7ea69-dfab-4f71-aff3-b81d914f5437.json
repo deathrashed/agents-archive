@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "79f7ea69-dfab-4f71-aff3-b81d914f5437",
+  "path": "skills/ai-slop-cleaner",
+  "path_key": "skills/ai-slop-cleaner",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

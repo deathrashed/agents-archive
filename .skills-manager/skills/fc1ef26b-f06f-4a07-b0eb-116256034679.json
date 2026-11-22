@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fc1ef26b-f06f-4a07-b0eb-116256034679",
+  "path": "plugins/omo/skills/remove-ai-slops",
+  "path_key": "plugins/omo/skills/remove-ai-slops",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

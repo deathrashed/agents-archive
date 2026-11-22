@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0823f753-3c1a-41c6-92f6-19cdf3ee9994",
+  "path": "providers/openai/skills/.curated/playwright",
+  "path_key": "providers/openai/skills/.curated/playwright",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

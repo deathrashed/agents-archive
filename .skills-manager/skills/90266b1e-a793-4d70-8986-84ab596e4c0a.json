@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "90266b1e-a793-4d70-8986-84ab596e4c0a",
+  "path": "skills/explain-interface",
+  "path_key": "skills/explain-interface",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

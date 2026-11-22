@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8aa82138-7bd5-4bd2-b176-dd08a5395cef",
+  "path": "plugins/platform/oh-my-antigravity/skills/checkpoint",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/checkpoint",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bcd2841d-4628-4924-bf8a-fb785f8c97f2",
+  "path": "plugins/integrations/maestro/skills/resume",
+  "path_key": "plugins/integrations/maestro/skills/resume",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

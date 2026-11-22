@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d38993e5-0e29-448a-ba1f-e9ddcc5245ea",
+  "path": "plugins/codex/curated-remote/build-ios-apps/skills/ios-ettrace-performance",
+  "path_key": "plugins/codex/curated-remote/build-ios-apps/skills/ios-ettrace-performance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

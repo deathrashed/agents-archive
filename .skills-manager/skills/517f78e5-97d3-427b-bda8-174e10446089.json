@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "517f78e5-97d3-427b-bda8-174e10446089",
+  "path": "plugins/platform/oh-my-antigravity/skills/team-fix",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/team-fix",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

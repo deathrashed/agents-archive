@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "63a6873a-5744-4427-8255-b6dc06d81d01",
+  "path": "skills/ghostex-visuals",
+  "path_key": "skills/ghostex-visuals",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

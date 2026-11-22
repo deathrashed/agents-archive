@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f27b20ec-e7a3-4957-90b3-96aca86f374e",
+  "path": "plugins/omo/skills/lcx-doctor",
+  "path_key": "plugins/omo/skills/lcx-doctor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

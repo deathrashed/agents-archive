@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2caf4ce9-7b0a-4c1b-b80c-291d238077a2",
+  "path": "skills/docker-compose",
+  "path_key": "skills/docker-compose",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

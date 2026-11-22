@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ef8844fb-2e7f-4740-b9ee-a5da2578ecaf",
+  "path": "plugins/codex/curated/figma/skills/figma-implement-motion",
+  "path_key": "plugins/codex/curated/figma/skills/figma-implement-motion",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

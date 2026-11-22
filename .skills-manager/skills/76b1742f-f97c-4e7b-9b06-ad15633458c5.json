@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "76b1742f-f97c-4e7b-9b06-ad15633458c5",
+  "path": ".agents/skills/oma-academic-writer",
+  "path_key": ".agents/skills/oma-academic-writer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

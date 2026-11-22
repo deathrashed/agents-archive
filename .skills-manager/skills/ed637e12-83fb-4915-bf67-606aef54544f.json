@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ed637e12-83fb-4915-bf67-606aef54544f",
+  "path": "providers/oma/.agents/skills/oma-translator",
+  "path_key": "providers/oma/.agents/skills/oma-translator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

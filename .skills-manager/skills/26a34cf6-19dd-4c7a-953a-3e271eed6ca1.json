@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "26a34cf6-19dd-4c7a-953a-3e271eed6ca1",
+  "path": "skills/safe-debug",
+  "path_key": "skills/safe-debug",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

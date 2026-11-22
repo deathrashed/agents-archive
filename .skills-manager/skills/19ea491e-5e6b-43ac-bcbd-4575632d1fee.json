@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "19ea491e-5e6b-43ac-bcbd-4575632d1fee",
+  "path": "providers/openai/skills/.curated/transcribe",
+  "path_key": "providers/openai/skills/.curated/transcribe",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

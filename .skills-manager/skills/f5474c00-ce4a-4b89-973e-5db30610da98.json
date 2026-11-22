@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f5474c00-ce4a-4b89-973e-5db30610da98",
+  "path": "plugins/codex/primary-runtime/documents/skills/documents",
+  "path_key": "plugins/codex/primary-runtime/documents/skills/documents",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

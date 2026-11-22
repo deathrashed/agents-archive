@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a11e4b45-d945-4a91-98c7-705da0aa8683",
+  "path": "plugins/omo/skills/ultimate-browsing",
+  "path_key": "plugins/omo/skills/ultimate-browsing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

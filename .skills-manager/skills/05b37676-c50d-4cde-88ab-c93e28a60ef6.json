@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "05b37676-c50d-4cde-88ab-c93e28a60ef6",
+  "path": "plugins/other/plugin-dev/skills/command-development",
+  "path_key": "plugins/other/plugin-dev/skills/command-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

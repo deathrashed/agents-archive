@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "05c4c0fd-5e83-4ab3-93b8-349bae9d5495",
+  "path": "providers/cursor/skills/update-cursor-settings",
+  "path_key": "providers/cursor/skills/update-cursor-settings",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

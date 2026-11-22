@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "77dc3254-f957-47a3-8175-e6768d5f6b85",
+  "path": "plugins/workflow/autocode/skills/user-level-detect",
+  "path_key": "plugins/workflow/autocode/skills/user-level-detect",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

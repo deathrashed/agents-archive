@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "88541f84-c7b6-4615-b062-46b5b3d265ac",
+  "path": "plugins/workflow/autocode/skills/requirement-lock",
+  "path_key": "plugins/workflow/autocode/skills/requirement-lock",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5005d862-ffb5-4b87-986d-8fcfd1e6813e",
+  "path": "skills/paper-context-resolver",
+  "path_key": "skills/paper-context-resolver",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

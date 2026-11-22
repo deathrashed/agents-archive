@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "51598c94-b023-4a2f-92aa-120658a5ac79",
+  "path": "skills/team",
+  "path_key": "skills/team",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

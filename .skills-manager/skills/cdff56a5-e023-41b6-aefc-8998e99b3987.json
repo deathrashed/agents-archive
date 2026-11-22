@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cdff56a5-e023-41b6-aefc-8998e99b3987",
+  "path": "skillz/codex/.system/review-agent",
+  "path_key": "skillz/codex/.system/review-agent",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

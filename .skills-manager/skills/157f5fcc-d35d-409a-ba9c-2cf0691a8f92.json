@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "157f5fcc-d35d-409a-ba9c-2cf0691a8f92",
+  "path": "plugins/workflow/autocode/skills/fix-guide",
+  "path_key": "plugins/workflow/autocode/skills/fix-guide",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

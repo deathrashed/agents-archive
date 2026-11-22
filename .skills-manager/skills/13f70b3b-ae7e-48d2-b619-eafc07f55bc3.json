@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "13f70b3b-ae7e-48d2-b619-eafc07f55bc3",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/doctor",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/doctor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

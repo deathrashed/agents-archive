@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7648d4a7-1d15-4661-9f15-d4cdf8bd222a",
+  "path": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-investment-committee-memo",
+  "path_key": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-investment-committee-memo",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

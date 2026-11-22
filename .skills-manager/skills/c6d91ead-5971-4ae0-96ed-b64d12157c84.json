@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c6d91ead-5971-4ae0-96ed-b64d12157c84",
+  "path": "plugins/omo/skills/ulw-plan",
+  "path_key": "plugins/omo/skills/ulw-plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

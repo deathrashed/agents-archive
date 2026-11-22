@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea89d76d-4a3b-41d2-94ec-35bf9b2e2b9d",
+  "path": "skills/ai-memory-durable-pages",
+  "path_key": "skills/ai-memory-durable-pages",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

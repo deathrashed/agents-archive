@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4b340443-cab0-4c43-87d3-45b42f511f8f",
+  "path": "skillz/codex/tdd",
+  "path_key": "skillz/codex/tdd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

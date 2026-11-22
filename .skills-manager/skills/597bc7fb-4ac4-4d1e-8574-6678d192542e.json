@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "597bc7fb-4ac4-4d1e-8574-6678d192542e",
+  "path": "skills/build-verifier",
+  "path_key": "skills/build-verifier",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "276aeae2-c4fb-49d4-b5ca-f3a3179fda1f",
+  "path": "plugins/codex/bundled/chrome/skills/control-chrome",
+  "path_key": "plugins/codex/bundled/chrome/skills/control-chrome",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

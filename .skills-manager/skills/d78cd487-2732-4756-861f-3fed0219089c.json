@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d78cd487-2732-4756-861f-3fed0219089c",
+  "path": "skills/deep-interview",
+  "path_key": "skills/deep-interview",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

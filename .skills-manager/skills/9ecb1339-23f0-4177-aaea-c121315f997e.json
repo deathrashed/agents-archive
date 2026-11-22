@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9ecb1339-23f0-4177-aaea-c121315f997e",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/deep-init",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/deep-init",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

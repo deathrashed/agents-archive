@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "359332ef-d66e-4273-90c3-360607de089d",
+  "path": "skillz/riley/typinator",
+  "path_key": "skillz/riley/typinator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

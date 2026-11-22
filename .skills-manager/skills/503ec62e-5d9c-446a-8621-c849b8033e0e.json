@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "503ec62e-5d9c-446a-8621-c849b8033e0e",
+  "path": "skillz/codex/team",
+  "path_key": "skillz/codex/team",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

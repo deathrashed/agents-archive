@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "49b73fa2-4d02-4eef-a5b0-44e743717bd3",
+  "path": "skills/to-questionnaire",
+  "path_key": "skills/to-questionnaire",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

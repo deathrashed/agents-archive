@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fa24acde-5503-40bb-8201-0c5b9de23142",
+  "path": "skillz/dev-workflows/code-review",
+  "path_key": "skillz/dev-workflows/code-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

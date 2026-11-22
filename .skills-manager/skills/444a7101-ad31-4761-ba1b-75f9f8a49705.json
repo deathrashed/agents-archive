@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "444a7101-ad31-4761-ba1b-75f9f8a49705",
+  "path": "skills/pair-programming",
+  "path_key": "skills/pair-programming",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

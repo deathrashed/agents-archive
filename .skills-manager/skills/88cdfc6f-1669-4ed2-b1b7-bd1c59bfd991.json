@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "88cdfc6f-1669-4ed2-b1b7-bd1c59bfd991",
+  "path": "skillz/coding/rust",
+  "path_key": "skillz/coding/rust",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

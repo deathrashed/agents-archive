@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "31a396a7-0085-4eff-ba02-5e39a0355995",
+  "path": "providers/openai/skills/.system/skill-creator",
+  "path_key": "providers/openai/skills/.system/skill-creator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

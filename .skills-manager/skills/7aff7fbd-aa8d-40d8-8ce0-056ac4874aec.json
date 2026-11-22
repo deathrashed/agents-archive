@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7aff7fbd-aa8d-40d8-8ce0-056ac4874aec",
+  "path": "skills/vibeindex",
+  "path_key": "skills/vibeindex",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

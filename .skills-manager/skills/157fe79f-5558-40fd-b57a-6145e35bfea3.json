@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "157fe79f-5558-40fd-b57a-6145e35bfea3",
+  "path": "plugins/workflow/claudeforge-skill",
+  "path_key": "plugins/workflow/claudeforge-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

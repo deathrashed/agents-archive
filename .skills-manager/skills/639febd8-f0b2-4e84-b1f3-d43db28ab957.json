@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "639febd8-f0b2-4e84-b1f3-d43db28ab957",
+  "path": "skills/llm-council",
+  "path_key": "skills/llm-council",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

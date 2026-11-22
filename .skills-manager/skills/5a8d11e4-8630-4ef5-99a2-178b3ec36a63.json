@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5a8d11e4-8630-4ef5-99a2-178b3ec36a63",
+  "path": "skillz/coding/dotnet",
+  "path_key": "skillz/coding/dotnet",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

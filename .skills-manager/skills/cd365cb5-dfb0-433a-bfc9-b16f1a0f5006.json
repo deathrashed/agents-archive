@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cd365cb5-dfb0-433a-bfc9-b16f1a0f5006",
+  "path": "plugins/integrations/gemini-kit/skills/doc-rules",
+  "path_key": "plugins/integrations/gemini-kit/skills/doc-rules",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9c9e74b2-42a3-46be-a0d5-93a57305878f",
+  "path": "skills/synced/de263315-2741-41b2-9793-ecadf1ecc07c_6b9819b9-8e3f-496f-991e-8a81ded5d381/md-improver",
+  "path_key": "skills/synced/de263315-2741-41b2-9793-ecadf1ecc07c_6b9819b9-8e3f-496f-991e-8a81ded5d381/md-improver",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

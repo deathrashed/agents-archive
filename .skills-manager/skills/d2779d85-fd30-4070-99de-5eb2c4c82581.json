@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d2779d85-fd30-4070-99de-5eb2c4c82581",
+  "path": "skills/source-command-claude-flow-swarm",
+  "path_key": "skills/source-command-claude-flow-swarm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "468e0db4-8f4b-4316-b38c-67864b3aa48a",
+  "path": "plugins/workflow/autocode/skills/plan-priority",
+  "path_key": "plugins/workflow/autocode/skills/plan-priority",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ae118746-8c6d-49a0-b124-7e6acaa1d57a",
+  "path": "skills/superset/skills/automate",
+  "path_key": "skills/superset/skills/automate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

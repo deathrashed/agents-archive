@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "97aaf1ed-ffd8-4588-9e4c-3c17a9ce1ea1",
+  "path": "skills/agentdb-advanced",
+  "path_key": "skills/agentdb-advanced",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

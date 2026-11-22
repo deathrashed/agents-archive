@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cef9fc0e-ec77-4c46-9f5f-3666081d4a67",
+  "path": "skills/superset/skills/setup",
+  "path_key": "skills/superset/skills/setup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

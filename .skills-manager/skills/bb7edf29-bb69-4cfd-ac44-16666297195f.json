@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bb7edf29-bb69-4cfd-ac44-16666297195f",
+  "path": ".agents/skills/oma-deepsec",
+  "path_key": ".agents/skills/oma-deepsec",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

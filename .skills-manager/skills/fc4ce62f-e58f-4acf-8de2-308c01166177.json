@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fc4ce62f-e58f-4acf-8de2-308c01166177",
+  "path": "plugins/codex/curated/build-ios-apps/skills/swiftui-liquid-glass",
+  "path_key": "plugins/codex/curated/build-ios-apps/skills/swiftui-liquid-glass",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

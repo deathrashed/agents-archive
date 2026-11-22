@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2a4ae14d-71ec-4d44-bd6f-ad8d0d248534",
+  "path": "skills/specstory-link-trail",
+  "path_key": "skills/specstory-link-trail",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

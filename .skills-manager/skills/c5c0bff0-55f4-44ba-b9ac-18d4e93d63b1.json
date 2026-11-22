@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c5c0bff0-55f4-44ba-b9ac-18d4e93d63b1",
+  "path": "skills/worker",
+  "path_key": "skills/worker",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

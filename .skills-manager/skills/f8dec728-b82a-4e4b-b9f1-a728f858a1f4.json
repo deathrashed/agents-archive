@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f8dec728-b82a-4e4b-b9f1-a728f858a1f4",
+  "path": "providers/openai/skills/.curated/cloudflare-deploy",
+  "path_key": "providers/openai/skills/.curated/cloudflare-deploy",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

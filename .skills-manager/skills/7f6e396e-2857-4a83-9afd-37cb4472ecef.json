@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7f6e396e-2857-4a83-9afd-37cb4472ecef",
+  "path": "skills/agentdb-learning",
+  "path_key": "skills/agentdb-learning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

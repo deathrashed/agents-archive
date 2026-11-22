@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af26aacf-2c0c-4c31-a538-f575daa9d6af",
+  "path": "skills/reclaude",
+  "path_key": "skills/reclaude",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

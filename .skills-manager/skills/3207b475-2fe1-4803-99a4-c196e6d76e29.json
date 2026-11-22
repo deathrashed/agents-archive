@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3207b475-2fe1-4803-99a4-c196e6d76e29",
+  "path": "plugins/codex/curated/hugging-face/skills/datasets",
+  "path_key": "plugins/codex/curated/hugging-face/skills/datasets",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8cb1486f-ccb3-4bee-8424-469e1e15fb51",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/interview",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/interview",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

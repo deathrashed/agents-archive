@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6edc8119-ed28-4a3f-89eb-fabc36a3d7d6",
+  "path": "skillz/riley/scripts",
+  "path_key": "skillz/riley/scripts",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

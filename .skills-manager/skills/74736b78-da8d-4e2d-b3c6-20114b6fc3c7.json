@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "74736b78-da8d-4e2d-b3c6-20114b6fc3c7",
+  "path": "skills/source-command-agents-agent-spawning",
+  "path_key": "skills/source-command-agents-agent-spawning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

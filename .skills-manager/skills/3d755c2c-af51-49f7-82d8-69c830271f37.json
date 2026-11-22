@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3d755c2c-af51-49f7-82d8-69c830271f37",
+  "path": "skills/specstory-guard",
+  "path_key": "skills/specstory-guard",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

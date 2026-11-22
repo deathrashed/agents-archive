@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b05cb6f7-27f9-4f57-91e6-029261f58293",
+  "path": "plugins/workflow/autocode/skills/deploy-cf-workers",
+  "path_key": "plugins/workflow/autocode/skills/deploy-cf-workers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

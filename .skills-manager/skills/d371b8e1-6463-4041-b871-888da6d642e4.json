@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d371b8e1-6463-4041-b871-888da6d642e4",
+  "path": "plugins/codex/curated-remote/build-macos-apps/skills/view-refactor",
+  "path_key": "plugins/codex/curated-remote/build-macos-apps/skills/view-refactor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

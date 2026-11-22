@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f990c8de-523e-4c78-819e-1e5dafa81e39",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/execute",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/execute",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

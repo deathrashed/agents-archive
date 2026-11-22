@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bf0fc2f9-2370-4188-a2b6-dd7eca061d0f",
+  "path": "skills/docker-networking",
+  "path_key": "skills/docker-networking",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

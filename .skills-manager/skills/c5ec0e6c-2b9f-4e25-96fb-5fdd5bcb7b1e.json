@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c5ec0e6c-2b9f-4e25-96fb-5fdd5bcb7b1e",
+  "path": "plugins/codex/curated/canva/skills/canva-translate-design",
+  "path_key": "plugins/codex/curated/canva/skills/canva-translate-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

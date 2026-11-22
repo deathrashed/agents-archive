@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a4a9e0e6-41f7-4c52-b84e-20bf3ccc8d69",
+  "path": "skills/microsoft-foundry/finetuning",
+  "path_key": "skills/microsoft-foundry/finetuning",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

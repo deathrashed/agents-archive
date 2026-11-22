@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "26ad0d71-ea45-4440-99ed-47148120d8fb",
+  "path": "skills/better-accessibility",
+  "path_key": "skills/better-accessibility",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

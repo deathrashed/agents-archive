@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "32e71ed1-d903-47d8-803e-154f97dc79f1",
+  "path": "skills/ghostex-help",
+  "path_key": "skills/ghostex-help",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1c9b3967-e896-4673-9dc3-1476ef68c935",
+  "path": "skills/wiki",
+  "path_key": "skills/wiki",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d0ac8883-722b-44f7-a022-c7085751c214",
+  "path": "plugins/codex/curated/google-drive/skills/google-sheets",
+  "path_key": "plugins/codex/curated/google-drive/skills/google-sheets",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

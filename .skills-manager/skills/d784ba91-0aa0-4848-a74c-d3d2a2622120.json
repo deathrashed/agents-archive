@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d784ba91-0aa0-4848-a74c-d3d2a2622120",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/team-verify",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/team-verify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

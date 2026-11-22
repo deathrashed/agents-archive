@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f3790841-4edf-4185-86e2-40ee7ad58915",
+  "path": "plugins/workflow/autocode/skills/save-rollback",
+  "path_key": "plugins/workflow/autocode/skills/save-rollback",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

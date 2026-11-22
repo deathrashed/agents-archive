@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5a2911e9-7f77-43b4-b3be-5846de1d49ff",
+  "path": "providers/openai/skills/.curated/yeet",
+  "path_key": "providers/openai/skills/.curated/yeet",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

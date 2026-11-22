@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7d827c06-06c7-41b6-97d6-0229f2eb86ff",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/checkpoint",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/checkpoint",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

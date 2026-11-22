@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "87813d35-20df-4a20-b13d-6561e9fc501e",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/memory",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/memory",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

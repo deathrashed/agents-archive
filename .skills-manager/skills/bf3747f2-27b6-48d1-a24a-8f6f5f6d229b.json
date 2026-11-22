@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bf3747f2-27b6-48d1-a24a-8f6f5f6d229b",
+  "path": "plugins/platform/oh-my-antigravity/skills/team-verify",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/team-verify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

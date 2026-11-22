@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0c949225-c63f-4eb0-9715-98aebe910b58",
+  "path": "plugins/codex/curated-remote/build-macos-apps/skills/packaging-notarization",
+  "path_key": "plugins/codex/curated-remote/build-macos-apps/skills/packaging-notarization",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

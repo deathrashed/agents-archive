@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eb9c58a4-8a18-495b-8192-70edb63d198c",
+  "path": "skills/interface-review",
+  "path_key": "skills/interface-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

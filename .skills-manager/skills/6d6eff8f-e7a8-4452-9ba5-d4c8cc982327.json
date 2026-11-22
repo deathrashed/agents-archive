@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6d6eff8f-e7a8-4452-9ba5-d4c8cc982327",
+  "path": "plugins/codex/curated/hugging-face/skills/jobs",
+  "path_key": "plugins/codex/curated/hugging-face/skills/jobs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

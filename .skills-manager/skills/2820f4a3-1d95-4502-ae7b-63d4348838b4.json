@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2820f4a3-1d95-4502-ae7b-63d4348838b4",
+  "path": "plugins/workflow/autocode/skills/fix-reason",
+  "path_key": "plugins/workflow/autocode/skills/fix-reason",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

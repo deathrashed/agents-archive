@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f60f965b-6318-4df5-8308-65c12296b68e",
+  "path": "plugins/platform/oh-my-antigravity/skills/memory",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/memory",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

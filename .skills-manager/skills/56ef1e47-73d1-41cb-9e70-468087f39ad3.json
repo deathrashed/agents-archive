@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "56ef1e47-73d1-41cb-9e70-468087f39ad3",
+  "path": "plugins/integrations/gemini-kit/skills/testing",
+  "path_key": "plugins/integrations/gemini-kit/skills/testing",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

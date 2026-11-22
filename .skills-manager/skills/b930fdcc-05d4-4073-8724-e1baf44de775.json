@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b930fdcc-05d4-4073-8724-e1baf44de775",
+  "path": "plugins/workflow/autocode/skills/project-roadmap",
+  "path_key": "plugins/workflow/autocode/skills/project-roadmap",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

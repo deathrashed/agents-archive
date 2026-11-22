@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fe9f99cf-8309-49e4-8263-2ec90fcc07d5",
+  "path": "plugins/codex/curated/hugging-face/skills/cli",
+  "path_key": "plugins/codex/curated/hugging-face/skills/cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

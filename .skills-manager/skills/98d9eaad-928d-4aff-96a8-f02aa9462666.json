@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "98d9eaad-928d-4aff-96a8-f02aa9462666",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/hud-on",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/hud-on",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

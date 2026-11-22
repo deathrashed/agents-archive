@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4d7d0631-15a1-47e9-8497-2889be6a6aa6",
+  "path": "skills/docker-run",
+  "path_key": "skills/docker-run",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

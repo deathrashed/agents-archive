@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "40974482-839d-4e62-a7cd-84b0b9830269",
+  "path": "plugins/workflow/autocode/skills/deploy-vps",
+  "path_key": "plugins/workflow/autocode/skills/deploy-vps",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

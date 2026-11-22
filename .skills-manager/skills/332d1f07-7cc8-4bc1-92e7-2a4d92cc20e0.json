@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "332d1f07-7cc8-4bc1-92e7-2a4d92cc20e0",
+  "path": "skills/cua-sandboxes",
+  "path_key": "skills/cua-sandboxes",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

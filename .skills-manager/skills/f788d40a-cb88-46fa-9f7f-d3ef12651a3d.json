@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f788d40a-cb88-46fa-9f7f-d3ef12651a3d",
+  "path": ".agents/skills/oma-skill-creator",
+  "path_key": ".agents/skills/oma-skill-creator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

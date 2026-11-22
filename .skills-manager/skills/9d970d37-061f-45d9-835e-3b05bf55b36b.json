@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9d970d37-061f-45d9-835e-3b05bf55b36b",
+  "path": "plugins/workflow/autocode/skills/efficiency-compare",
+  "path_key": "plugins/workflow/autocode/skills/efficiency-compare",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "44582c84-ebff-483a-9cb4-5f1cc2be510e",
+  "path": "skills/variant",
+  "path_key": "skills/variant",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

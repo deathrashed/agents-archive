@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "25fc628f-1f0b-4676-980b-cd35c33ace93",
+  "path": "plugins/codex/curated/github/skills/gh-address-comments",
+  "path_key": "plugins/codex/curated/github/skills/gh-address-comments",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

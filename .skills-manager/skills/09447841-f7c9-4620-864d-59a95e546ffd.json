@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "09447841-f7c9-4620-864d-59a95e546ffd",
+  "path": "skills/loop-me",
+  "path_key": "skills/loop-me",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

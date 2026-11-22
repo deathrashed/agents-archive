@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0dd9f46a-77f5-47df-8c7e-47b7a3b12564",
+  "path": "plugins/codex/curated-remote/github/skills/gh-fix-ci",
+  "path_key": "plugins/codex/curated-remote/github/skills/gh-fix-ci",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

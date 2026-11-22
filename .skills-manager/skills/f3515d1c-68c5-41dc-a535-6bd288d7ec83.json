@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f3515d1c-68c5-41dc-a535-6bd288d7ec83",
+  "path": "skills/gui-automation",
+  "path_key": "skills/gui-automation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

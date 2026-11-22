@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "824642ae-1135-4154-94a1-797f4a5891d8",
+  "path": "providers/oma/.agents/skills/oma-recap",
+  "path_key": "providers/oma/.agents/skills/oma-recap",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

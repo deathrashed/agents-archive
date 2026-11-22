@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "77ee9e01-15b1-4c4d-868c-f2efecd4af85",
+  "path": "providers/openai/skills/.curated/linear",
+  "path_key": "providers/openai/skills/.curated/linear",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

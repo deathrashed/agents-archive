@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b5f69740-80ef-440c-87a6-980acf1f3fd7",
+  "path": "skills/superset/skills/browser",
+  "path_key": "skills/superset/skills/browser",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

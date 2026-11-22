@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fa9d3330-9f2d-4e41-a730-8edcab798428",
+  "path": "skills/env-and-assets-bootstrap",
+  "path_key": "skills/env-and-assets-bootstrap",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

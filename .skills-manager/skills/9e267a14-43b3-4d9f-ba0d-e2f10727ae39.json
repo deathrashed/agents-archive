@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9e267a14-43b3-4d9f-ba0d-e2f10727ae39",
+  "path": "plugins/platform/oh-my-antigravity/skills/ultragoal",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/ultragoal",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

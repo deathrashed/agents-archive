@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4d8a81b0-f2a2-488e-a7b5-246617c9caa8",
+  "path": "skills/gsd-surface",
+  "path_key": "skills/gsd-surface",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cabb6fcf-3aaf-4b51-944a-9914869c5419",
+  "path": "skills/specstory-organize",
+  "path_key": "skills/specstory-organize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

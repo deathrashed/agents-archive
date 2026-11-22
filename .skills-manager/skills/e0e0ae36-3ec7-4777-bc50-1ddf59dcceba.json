@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e0e0ae36-3ec7-4777-bc50-1ddf59dcceba",
+  "path": ".agents/skills/oma-explainer",
+  "path_key": ".agents/skills/oma-explainer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "22d14943-eb0a-4d52-82e0-8fc7ee3d273a",
+  "path": "skills/ralplan",
+  "path_key": "skills/ralplan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

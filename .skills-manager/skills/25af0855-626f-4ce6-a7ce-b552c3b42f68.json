@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "25af0855-626f-4ce6-a7ce-b552c3b42f68",
+  "path": "skillz/codex/.system/plugin-creator",
+  "path_key": "skillz/codex/.system/plugin-creator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

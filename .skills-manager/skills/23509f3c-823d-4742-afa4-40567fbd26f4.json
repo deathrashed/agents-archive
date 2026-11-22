@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "23509f3c-823d-4742-afa4-40567fbd26f4",
+  "path": "skills/build-design",
+  "path_key": "skills/build-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

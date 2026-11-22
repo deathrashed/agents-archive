@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dfd9d9e1-3ef7-4bb1-8d43-18d8623cb87c",
+  "path": "plugins/codex/curated/hugging-face/skills/llm-trainer",
+  "path_key": "plugins/codex/curated/hugging-face/skills/llm-trainer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

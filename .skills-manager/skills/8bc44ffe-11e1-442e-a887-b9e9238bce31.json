@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8bc44ffe-11e1-442e-a887-b9e9238bce31",
+  "path": "providers/openai/skills/.curated/speech",
+  "path_key": "providers/openai/skills/.curated/speech",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9db8b661-b54d-40f6-85a4-87569c0c59e2",
+  "path": "skills/analyze-project",
+  "path_key": "skills/analyze-project",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

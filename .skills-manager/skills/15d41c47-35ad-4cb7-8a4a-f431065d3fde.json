@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "15d41c47-35ad-4cb7-8a4a-f431065d3fde",
+  "path": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-legal-memorandum",
+  "path_key": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-legal-memorandum",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

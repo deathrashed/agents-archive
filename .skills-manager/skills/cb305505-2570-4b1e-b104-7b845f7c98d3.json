@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cb305505-2570-4b1e-b104-7b845f7c98d3",
+  "path": "skills/design",
+  "path_key": "skills/design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

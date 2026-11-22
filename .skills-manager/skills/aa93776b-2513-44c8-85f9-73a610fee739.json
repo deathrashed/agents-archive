@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aa93776b-2513-44c8-85f9-73a610fee739",
+  "path": "plugins/codex/curated/build-ios-apps/skills/swiftui-performance-audit",
+  "path_key": "plugins/codex/curated/build-ios-apps/skills/swiftui-performance-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

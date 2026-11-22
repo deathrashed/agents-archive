@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d4d6946c-bdcf-4cc2-b65d-ffae4381bff6",
+  "path": "plugins/omo/components/ultrawork/skills/ultrawork",
+  "path_key": "plugins/omo/components/ultrawork/skills/ultrawork",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

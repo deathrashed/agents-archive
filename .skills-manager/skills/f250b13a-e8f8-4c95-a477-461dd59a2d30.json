@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f250b13a-e8f8-4c95-a477-461dd59a2d30",
+  "path": "skillz/codex/.system/openai-docs",
+  "path_key": "skillz/codex/.system/openai-docs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

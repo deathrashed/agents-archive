@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6c5fdfa6-0329-4de4-a609-4f8304920b08",
+  "path": "providers/openai/skills/.curated/figma-generate-library",
+  "path_key": "providers/openai/skills/.curated/figma-generate-library",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

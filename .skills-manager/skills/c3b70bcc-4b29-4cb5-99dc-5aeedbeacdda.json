@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c3b70bcc-4b29-4cb5-99dc-5aeedbeacdda",
+  "path": "skills/microsoft-foundry/models/deploy-model/preset",
+  "path_key": "skills/microsoft-foundry/models/deploy-model/preset",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

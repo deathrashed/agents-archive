@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "59d8a3cd-1db5-4a10-a99a-b2593eb32dc7",
+  "path": "skillz/codex/deep-interview",
+  "path_key": "skillz/codex/deep-interview",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

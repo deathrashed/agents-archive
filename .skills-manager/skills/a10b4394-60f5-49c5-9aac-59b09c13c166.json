@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a10b4394-60f5-49c5-9aac-59b09c13c166",
+  "path": "skills/karpathy-skills-extended",
+  "path_key": "skills/karpathy-skills-extended",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

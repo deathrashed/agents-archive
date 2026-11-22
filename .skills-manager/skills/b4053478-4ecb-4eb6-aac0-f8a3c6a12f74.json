@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b4053478-4ecb-4eb6-aac0-f8a3c6a12f74",
+  "path": "plugins/platform/oh-my-antigravity/skills/ralplan",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/ralplan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

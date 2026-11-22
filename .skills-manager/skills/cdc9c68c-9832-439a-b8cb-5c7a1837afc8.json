@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cdc9c68c-9832-439a-b8cb-5c7a1837afc8",
+  "path": "skillz/coding/java",
+  "path_key": "skillz/coding/java",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

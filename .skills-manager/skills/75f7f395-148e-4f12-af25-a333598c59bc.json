@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "75f7f395-148e-4f12-af25-a333598c59bc",
+  "path": "providers/openai/skills/.curated/security-best-practices",
+  "path_key": "providers/openai/skills/.curated/security-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

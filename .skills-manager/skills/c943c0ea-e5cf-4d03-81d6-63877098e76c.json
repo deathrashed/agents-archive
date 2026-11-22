@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c943c0ea-e5cf-4d03-81d6-63877098e76c",
+  "path": "plugins/workflow/autocode/skills/clarify-scope",
+  "path_key": "plugins/workflow/autocode/skills/clarify-scope",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

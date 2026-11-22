@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6210ad1c-d272-4070-bad7-d79a7a692375",
+  "path": "skills/gstack/plan-design-review",
+  "path_key": "skills/gstack/plan-design-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

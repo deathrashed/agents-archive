@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "21eb82d7-772d-4df4-8bf0-dd6ae3e456ef",
+  "path": "skills/synced/de263315-2741-41b2-9793-ecadf1ecc07c_6b9819b9-8e3f-496f-991e-8a81ded5d381/pptx",
+  "path_key": "skills/synced/de263315-2741-41b2-9793-ecadf1ecc07c_6b9819b9-8e3f-496f-991e-8a81ded5d381/pptx",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

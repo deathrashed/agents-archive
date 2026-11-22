@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fddc0bd5-1ddd-4c44-9dac-d9def123b012",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/workspace",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/workspace",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

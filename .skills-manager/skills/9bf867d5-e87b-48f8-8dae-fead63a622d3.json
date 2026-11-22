@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9bf867d5-e87b-48f8-8dae-fead63a622d3",
+  "path": ".agents/skills/oma-scholar",
+  "path_key": ".agents/skills/oma-scholar",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

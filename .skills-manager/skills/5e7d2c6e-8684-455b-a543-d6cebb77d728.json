@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5e7d2c6e-8684-455b-a543-d6cebb77d728",
+  "path": "plugins/examples/playground/skills/playground",
+  "path_key": "plugins/examples/playground/skills/playground",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

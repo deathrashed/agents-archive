@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "17ace0fd-8aa5-4f56-805b-1df4dcde8e39",
+  "path": "plugins/codex/curated/notion/skills/notion-spec-to-implementation",
+  "path_key": "plugins/codex/curated/notion/skills/notion-spec-to-implementation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

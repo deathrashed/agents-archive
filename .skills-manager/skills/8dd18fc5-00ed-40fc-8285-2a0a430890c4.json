@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8dd18fc5-00ed-40fc-8285-2a0a430890c4",
+  "path": "skills/file-watcher",
+  "path_key": "skills/file-watcher",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

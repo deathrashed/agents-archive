@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8b95e94e-05f8-4fd0-baf2-beca2bb40c8f",
+  "path": ".agents/skills/oma-frontend",
+  "path_key": ".agents/skills/oma-frontend",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

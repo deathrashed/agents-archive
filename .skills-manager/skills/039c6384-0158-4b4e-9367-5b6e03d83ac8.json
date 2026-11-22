@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "039c6384-0158-4b4e-9367-5b6e03d83ac8",
+  "path": "skills/superset-plugins",
+  "path_key": "skills/superset-plugins",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

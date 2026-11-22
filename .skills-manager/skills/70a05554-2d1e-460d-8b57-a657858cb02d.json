@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "70a05554-2d1e-460d-8b57-a657858cb02d",
+  "path": "plugins/codex/curated-remote/build-macos-apps/skills/appkit-interop",
+  "path_key": "plugins/codex/curated-remote/build-macos-apps/skills/appkit-interop",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

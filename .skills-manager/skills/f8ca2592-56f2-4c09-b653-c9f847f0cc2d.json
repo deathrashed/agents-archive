@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f8ca2592-56f2-4c09-b653-c9f847f0cc2d",
+  "path": "skillz/planning/prd",
+  "path_key": "skillz/planning/prd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

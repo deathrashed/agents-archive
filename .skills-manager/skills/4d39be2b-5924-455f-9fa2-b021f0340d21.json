@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4d39be2b-5924-455f-9fa2-b021f0340d21",
+  "path": "plugins/codex/curated-remote/figma/skills/figma-swiftui",
+  "path_key": "plugins/codex/curated-remote/figma/skills/figma-swiftui",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

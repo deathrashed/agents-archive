@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea79cc21-53e1-4da7-8c1b-975f82269599",
+  "path": "skills/loop",
+  "path_key": "skills/loop",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

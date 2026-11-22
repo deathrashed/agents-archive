@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8ec133ca-97d2-4bb2-9657-6fb138d1f665",
+  "path": "plugins/workflow/autocode/skills/understand-intent",
+  "path_key": "plugins/workflow/autocode/skills/understand-intent",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

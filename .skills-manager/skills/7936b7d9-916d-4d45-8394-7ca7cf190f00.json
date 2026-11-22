@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7936b7d9-916d-4d45-8394-7ca7cf190f00",
+  "path": "plugins/codex/curated/hugging-face/skills/papers",
+  "path_key": "plugins/codex/curated/hugging-face/skills/papers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a1720efe-ac95-4fc6-9c6b-4d556af3d8fe",
+  "path": "plugins/codex/curated-remote/build-macos-apps/skills/liquid-glass",
+  "path_key": "plugins/codex/curated-remote/build-macos-apps/skills/liquid-glass",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

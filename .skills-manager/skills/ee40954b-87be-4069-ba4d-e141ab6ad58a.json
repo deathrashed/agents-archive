@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ee40954b-87be-4069-ba4d-e141ab6ad58a",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/notify",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/notify",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "089c5a1c-4e2d-4701-b01b-a4ea14b02f00",
+  "path": "plugins/codex/bundled/browser-use/skills/browser",
+  "path_key": "plugins/codex/bundled/browser-use/skills/browser",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

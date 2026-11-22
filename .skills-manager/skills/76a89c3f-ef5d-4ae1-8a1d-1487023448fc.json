@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "76a89c3f-ef5d-4ae1-8a1d-1487023448fc",
+  "path": "skills/ultraqa",
+  "path_key": "skills/ultraqa",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

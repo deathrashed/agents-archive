@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b7ad5bd6-a39f-40bf-9523-e6253b50f849",
+  "path": "skills/explore-run",
+  "path_key": "skills/explore-run",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

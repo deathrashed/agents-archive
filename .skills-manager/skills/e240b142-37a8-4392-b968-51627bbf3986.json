@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e240b142-37a8-4392-b968-51627bbf3986",
+  "path": "skillz/superpowers/test-driven-development",
+  "path_key": "skillz/superpowers/test-driven-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

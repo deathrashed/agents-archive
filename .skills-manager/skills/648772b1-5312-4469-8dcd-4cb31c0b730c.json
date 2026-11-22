@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "648772b1-5312-4469-8dcd-4cb31c0b730c",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/hud-compact",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/hud-compact",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

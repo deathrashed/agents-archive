@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a73a8eda-9ce7-456a-a84b-04f89dbfafd0",
+  "path": "skills/wiki-query",
+  "path_key": "skills/wiki-query",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

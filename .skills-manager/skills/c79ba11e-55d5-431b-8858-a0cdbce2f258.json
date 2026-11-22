@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c79ba11e-55d5-431b-8858-a0cdbce2f258",
+  "path": "skills/synced/de263315-2741-41b2-9793-ecadf1ecc07c_6b9819b9-8e3f-496f-991e-8a81ded5d381/file-organizer",
+  "path_key": "skills/synced/de263315-2741-41b2-9793-ecadf1ecc07c_6b9819b9-8e3f-496f-991e-8a81ded5d381/file-organizer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1f28e13a-d8ab-4bcf-983b-465fcc1af9cd",
+  "path": "skills/microsoft-foundry/models/deploy-model/customize",
+  "path_key": "skills/microsoft-foundry/models/deploy-model/customize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

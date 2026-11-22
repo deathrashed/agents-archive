@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0f986f01-dbdd-404c-9dd1-9579d1f94e1d",
+  "path": "plugins/platform/oh-my-antigravity/skills/optimize",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/optimize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

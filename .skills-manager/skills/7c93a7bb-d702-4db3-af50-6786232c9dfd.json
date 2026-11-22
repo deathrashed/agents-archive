@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7c93a7bb-d702-4db3-af50-6786232c9dfd",
+  "path": "skills/source-command-analysis-token-efficiency",
+  "path_key": "skills/source-command-analysis-token-efficiency",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

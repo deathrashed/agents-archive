@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "189a3fe9-73f2-4c41-baef-66c19e3d1231",
+  "path": "plugins/omo/components/rules/skills/rules",
+  "path_key": "plugins/omo/components/rules/skills/rules",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

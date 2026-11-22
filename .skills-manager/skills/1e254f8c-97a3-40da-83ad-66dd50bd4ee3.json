@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1e254f8c-97a3-40da-83ad-66dd50bd4ee3",
+  "path": "skills/minimal-run-and-audit",
+  "path_key": "skills/minimal-run-and-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

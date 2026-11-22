@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e5125d8b-2cd3-4f71-9532-7a9e2d6494c9",
+  "path": "skills/reasoningbank-agentdb",
+  "path_key": "skills/reasoningbank-agentdb",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

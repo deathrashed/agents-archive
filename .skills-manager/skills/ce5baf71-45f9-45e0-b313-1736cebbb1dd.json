@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ce5baf71-45f9-45e0-b313-1736cebbb1dd",
+  "path": "skills/cmux-browser",
+  "path_key": "skills/cmux-browser",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

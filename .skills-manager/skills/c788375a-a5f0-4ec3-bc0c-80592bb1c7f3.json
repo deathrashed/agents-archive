@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c788375a-a5f0-4ec3-bc0c-80592bb1c7f3",
+  "path": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-simple-dark-mode",
+  "path_key": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-simple-dark-mode",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

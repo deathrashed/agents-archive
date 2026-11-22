@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6367aeb7-0081-4f3a-9f24-ed2ebfa7197d",
+  "path": "plugins/workflow/autocode/skills/learn-mistake",
+  "path_key": "plugins/workflow/autocode/skills/learn-mistake",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

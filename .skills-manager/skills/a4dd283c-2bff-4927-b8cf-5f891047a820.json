@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a4dd283c-2bff-4927-b8cf-5f891047a820",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/autopilot",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/autopilot",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

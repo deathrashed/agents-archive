@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "83100019-25a2-4ada-8c06-47eddfa1a9de",
+  "path": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-system-design",
+  "path_key": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-system-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

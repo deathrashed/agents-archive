@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a186c52a-7192-40af-9f3d-75d2fd8d8d68",
+  "path": "skills/paseo-plugin",
+  "path_key": "skills/paseo-plugin",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

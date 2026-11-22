@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ab8a7256-2f86-4832-a70a-e77f022bb9a3",
+  "path": "plugins/codex/bundled/sites/skills/sites-hosting",
+  "path_key": "plugins/codex/bundled/sites/skills/sites-hosting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

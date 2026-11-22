@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "66fc9675-d9e8-46bf-a979-2ee196e4bc85",
+  "path": "plugins/omo/skills/lsp-setup",
+  "path_key": "plugins/omo/skills/lsp-setup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

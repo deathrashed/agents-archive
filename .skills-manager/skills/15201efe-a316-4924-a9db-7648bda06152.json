@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "15201efe-a316-4924-a9db-7648bda06152",
+  "path": "skills/superset/skills/feedback",
+  "path_key": "skills/superset/skills/feedback",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

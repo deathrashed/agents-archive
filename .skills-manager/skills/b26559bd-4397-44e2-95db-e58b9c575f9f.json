@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b26559bd-4397-44e2-95db-e58b9c575f9f",
+  "path": "plugins/codex/bundled/sites/skills/sites-building",
+  "path_key": "plugins/codex/bundled/sites/skills/sites-building",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

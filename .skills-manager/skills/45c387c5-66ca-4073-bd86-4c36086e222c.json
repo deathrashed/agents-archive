@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "45c387c5-66ca-4073-bd86-4c36086e222c",
+  "path": "skills/hermes-agent-skill-authoring",
+  "path_key": "skills/hermes-agent-skill-authoring",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2055b272-87c9-44d8-a530-3726ae839b0f",
+  "path": "skills/explore-code",
+  "path_key": "skills/explore-code",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

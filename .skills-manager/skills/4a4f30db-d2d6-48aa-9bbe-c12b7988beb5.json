@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4a4f30db-d2d6-48aa-9bbe-c12b7988beb5",
+  "path": "plugins/codex/curated-remote/figma/skills/figma-use-slides",
+  "path_key": "plugins/codex/curated-remote/figma/skills/figma-use-slides",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

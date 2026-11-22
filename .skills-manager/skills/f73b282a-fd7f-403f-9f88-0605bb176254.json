@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f73b282a-fd7f-403f-9f88-0605bb176254",
+  "path": "skills/source-command-analysis-performance-bottlenecks",
+  "path_key": "skills/source-command-analysis-performance-bottlenecks",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

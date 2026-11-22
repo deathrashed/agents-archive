@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "37e86973-051e-4659-8a25-29457b195821",
+  "path": "skills/browser-extension-reverse",
+  "path_key": "skills/browser-extension-reverse",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

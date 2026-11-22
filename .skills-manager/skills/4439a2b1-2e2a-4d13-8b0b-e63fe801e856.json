@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4439a2b1-2e2a-4d13-8b0b-e63fe801e856",
+  "path": "plugins/integrations/maestro/skills/status",
+  "path_key": "plugins/integrations/maestro/skills/status",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

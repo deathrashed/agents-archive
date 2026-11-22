@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "19a1b5f2-5c67-426d-8d20-7d6a6c8d71d7",
+  "path": "plugins/omo/skills/visual-qa",
+  "path_key": "plugins/omo/skills/visual-qa",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

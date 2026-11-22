@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f42ba169-fb77-430d-b372-89640a8fa7be",
+  "path": "skills/safe-mode",
+  "path_key": "skills/safe-mode",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

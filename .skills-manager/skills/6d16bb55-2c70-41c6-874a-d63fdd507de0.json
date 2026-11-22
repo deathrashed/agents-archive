@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6d16bb55-2c70-41c6-874a-d63fdd507de0",
+  "path": "plugins/platform/claude-md-management/skills/claude-md-improver",
+  "path_key": "plugins/platform/claude-md-management/skills/claude-md-improver",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

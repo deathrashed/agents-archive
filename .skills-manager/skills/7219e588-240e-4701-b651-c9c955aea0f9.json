@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7219e588-240e-4701-b651-c9c955aea0f9",
+  "path": "skillz/cloud-devops/azure",
+  "path_key": "skillz/cloud-devops/azure",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

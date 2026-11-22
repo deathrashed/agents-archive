@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "be5ae195-1818-4f91-ab33-0a7d5d6c1097",
+  "path": "skills/sprint-status",
+  "path_key": "skills/sprint-status",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

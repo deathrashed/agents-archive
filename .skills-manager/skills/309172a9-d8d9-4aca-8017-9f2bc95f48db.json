@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "309172a9-d8d9-4aca-8017-9f2bc95f48db",
+  "path": "skills/docker-build",
+  "path_key": "skills/docker-build",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "19476302-e844-44cc-954b-87cb8e30ce94",
+  "path": "plugins/workflow/autocode/skills/file-transfer",
+  "path_key": "plugins/workflow/autocode/skills/file-transfer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fe74f555-0292-4030-96a0-56724b3c5cf3",
+  "path": "plugins/codex/curated/github/skills/yeet",
+  "path_key": "plugins/codex/curated/github/skills/yeet",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

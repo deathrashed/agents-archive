@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b7518ec5-e43a-4582-a8a0-365d647178c5",
+  "path": "skills/docker-testcontainers",
+  "path_key": "skills/docker-testcontainers",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

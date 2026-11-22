@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ac47e056-1df7-45c7-9cdb-d11b04da078e",
+  "path": "plugins/codex/primary-runtime/pdf/skills/pdf",
+  "path_key": "plugins/codex/primary-runtime/pdf/skills/pdf",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

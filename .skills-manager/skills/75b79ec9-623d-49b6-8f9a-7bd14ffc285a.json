@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "75b79ec9-623d-49b6-8f9a-7bd14ffc285a",
+  "path": "skills/wiki-research-loop",
+  "path_key": "skills/wiki-research-loop",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

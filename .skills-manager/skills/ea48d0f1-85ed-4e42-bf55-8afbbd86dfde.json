@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea48d0f1-85ed-4e42-bf55-8afbbd86dfde",
+  "path": "plugins/codex/curated/build-web-apps/skills/frontend-app-builder",
+  "path_key": "plugins/codex/curated/build-web-apps/skills/frontend-app-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

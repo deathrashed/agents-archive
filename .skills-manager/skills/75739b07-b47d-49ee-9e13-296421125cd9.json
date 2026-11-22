@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "75739b07-b47d-49ee-9e13-296421125cd9",
+  "path": "providers/oma/.agents/skills/oma-design",
+  "path_key": "providers/oma/.agents/skills/oma-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

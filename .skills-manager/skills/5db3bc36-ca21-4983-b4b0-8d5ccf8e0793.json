@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5db3bc36-ca21-4983-b4b0-8d5ccf8e0793",
+  "path": "plugins/platform/oh-my-antigravity/skills/hooks-validate",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/hooks-validate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

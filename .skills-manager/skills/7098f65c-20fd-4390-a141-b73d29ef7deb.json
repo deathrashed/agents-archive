@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7098f65c-20fd-4390-a141-b73d29ef7deb",
+  "path": "skills/show-me",
+  "path_key": "skills/show-me",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

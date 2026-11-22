@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7129b3e6-fabd-41c2-8b3a-476ac5d37ac1",
+  "path": "skills/synced/de263315-2741-41b2-9793-ecadf1ecc07c_6b9819b9-8e3f-496f-991e-8a81ded5d381/chrome-browser",
+  "path_key": "skills/synced/de263315-2741-41b2-9793-ecadf1ecc07c_6b9819b9-8e3f-496f-991e-8a81ded5d381/chrome-browser",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

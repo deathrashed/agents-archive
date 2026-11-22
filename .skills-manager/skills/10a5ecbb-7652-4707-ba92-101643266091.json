@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "10a5ecbb-7652-4707-ba92-101643266091",
+  "path": "plugins/platform/oh-my-antigravity/skills/team-prd",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/team-prd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

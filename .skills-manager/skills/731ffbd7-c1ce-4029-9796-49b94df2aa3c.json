@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "731ffbd7-c1ce-4029-9796-49b94df2aa3c",
+  "path": "skills/better-ui",
+  "path_key": "skills/better-ui",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

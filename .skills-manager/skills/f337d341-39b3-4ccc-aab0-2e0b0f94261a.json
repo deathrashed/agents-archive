@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f337d341-39b3-4ccc-aab0-2e0b0f94261a",
+  "path": "plugins/codex/curated/hugging-face/skills/transformers.js",
+  "path_key": "plugins/codex/curated/hugging-face/skills/transformers.js",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

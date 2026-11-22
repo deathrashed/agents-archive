@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4a3ed8d8-6696-47b4-9716-1e81392aeca6",
+  "path": "plugins/integrations/maestro/skills/perf-check",
+  "path_key": "plugins/integrations/maestro/skills/perf-check",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

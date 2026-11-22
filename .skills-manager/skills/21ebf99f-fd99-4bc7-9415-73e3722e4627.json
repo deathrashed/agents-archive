@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "21ebf99f-fd99-4bc7-9415-73e3722e4627",
+  "path": "plugins/codex/curated-remote/netlify/skills/netlify-caching",
+  "path_key": "plugins/codex/curated-remote/netlify/skills/netlify-caching",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

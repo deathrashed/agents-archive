@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d07c3a86-c025-403f-a2d1-35aff23a926b",
+  "path": "plugins/omo/skills/debugging",
+  "path_key": "plugins/omo/skills/debugging",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

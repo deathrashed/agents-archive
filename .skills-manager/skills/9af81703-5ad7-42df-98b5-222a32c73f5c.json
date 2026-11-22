@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9af81703-5ad7-42df-98b5-222a32c73f5c",
+  "path": "plugins/codex/curated/stripe/skills/upgrade-stripe",
+  "path_key": "plugins/codex/curated/stripe/skills/upgrade-stripe",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

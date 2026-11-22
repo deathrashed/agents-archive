@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "93c18b09-b9c4-4487-bfb1-71ca10406cf6",
+  "path": "skills/gstack/gstack-upgrade",
+  "path_key": "skills/gstack/gstack-upgrade",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

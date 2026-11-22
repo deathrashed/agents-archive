@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7941750f-f9c8-42e9-a974-1fae7c1c8f6a",
+  "path": "plugins/codex/curated/figma/skills/figma-generate-library",
+  "path_key": "plugins/codex/curated/figma/skills/figma-generate-library",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

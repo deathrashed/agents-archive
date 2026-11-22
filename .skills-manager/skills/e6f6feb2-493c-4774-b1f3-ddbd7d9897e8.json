@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e6f6feb2-493c-4774-b1f3-ddbd7d9897e8",
+  "path": "skills/caveman-explore",
+  "path_key": "skills/caveman-explore",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

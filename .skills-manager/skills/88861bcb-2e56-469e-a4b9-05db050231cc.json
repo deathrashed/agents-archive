@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "88861bcb-2e56-469e-a4b9-05db050231cc",
+  "path": "plugins/codex/curated/google-drive/skills/google-slides",
+  "path_key": "plugins/codex/curated/google-drive/skills/google-slides",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

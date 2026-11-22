@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c60da76b-de5d-4d38-b470-f59425650352",
+  "path": "plugins/omo/skills/teammode",
+  "path_key": "plugins/omo/skills/teammode",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

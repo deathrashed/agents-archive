@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "63a91c59-0626-4d80-b221-073ea6618dd0",
+  "path": "plugins/integrations/gemini-kit/skills/fullstack",
+  "path_key": "plugins/integrations/gemini-kit/skills/fullstack",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

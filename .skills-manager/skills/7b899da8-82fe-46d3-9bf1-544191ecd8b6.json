@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7b899da8-82fe-46d3-9bf1-544191ecd8b6",
+  "path": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-financial-budget",
+  "path_key": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-financial-budget",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

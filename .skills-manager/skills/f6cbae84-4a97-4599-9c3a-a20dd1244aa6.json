@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f6cbae84-4a97-4599-9c3a-a20dd1244aa6",
+  "path": "skills/specstory-project-stats",
+  "path_key": "skills/specstory-project-stats",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

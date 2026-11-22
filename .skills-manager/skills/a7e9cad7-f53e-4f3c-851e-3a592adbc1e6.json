@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a7e9cad7-f53e-4f3c-851e-3a592adbc1e6",
+  "path": "skills/opentui",
+  "path_key": "skills/opentui",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

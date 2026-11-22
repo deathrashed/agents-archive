@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2b2989a6-1c36-4a97-b69f-f21147cc249c",
+  "path": "plugins/codex/curated-remote/build-ios-apps/skills/ios-debugger-agent",
+  "path_key": "plugins/codex/curated-remote/build-ios-apps/skills/ios-debugger-agent",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

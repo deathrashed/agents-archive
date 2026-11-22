@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3ee9ea82-af61-436e-9714-048f562f83df",
+  "path": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-market-trends-report",
+  "path_key": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-market-trends-report",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

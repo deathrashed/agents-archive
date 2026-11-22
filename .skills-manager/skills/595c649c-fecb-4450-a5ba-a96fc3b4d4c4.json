@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "595c649c-fecb-4450-a5ba-a96fc3b4d4c4",
+  "path": "skills/batch-orchestration",
+  "path_key": "skills/batch-orchestration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

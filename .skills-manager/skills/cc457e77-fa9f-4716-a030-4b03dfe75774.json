@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cc457e77-fa9f-4716-a030-4b03dfe75774",
+  "path": "providers/openai/skills/.curated/figma-generate-design",
+  "path_key": "providers/openai/skills/.curated/figma-generate-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

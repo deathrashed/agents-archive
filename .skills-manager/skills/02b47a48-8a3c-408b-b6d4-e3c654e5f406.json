@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "02b47a48-8a3c-408b-b6d4-e3c654e5f406",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/deep-dive",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/deep-dive",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

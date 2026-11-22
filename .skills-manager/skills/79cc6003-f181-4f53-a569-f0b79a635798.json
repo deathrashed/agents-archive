@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "79cc6003-f181-4f53-a569-f0b79a635798",
+  "path": "plugins/omo/components/ultrawork/skills/ulw-plan",
+  "path_key": "plugins/omo/components/ultrawork/skills/ulw-plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

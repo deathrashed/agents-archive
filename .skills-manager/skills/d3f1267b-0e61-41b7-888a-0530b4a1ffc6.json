@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d3f1267b-0e61-41b7-888a-0530b4a1ffc6",
+  "path": "plugins/omo/components/lcx/skills/lcx-contribute-bug-fix",
+  "path_key": "plugins/omo/components/lcx/skills/lcx-contribute-bug-fix",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

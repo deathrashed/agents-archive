@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1dbd7a19-53b8-435a-bd28-ec71ee7a5ed4",
+  "path": "skillz/riley/zsh",
+  "path_key": "skillz/riley/zsh",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

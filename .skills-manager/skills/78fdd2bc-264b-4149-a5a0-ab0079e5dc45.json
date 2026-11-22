@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "78fdd2bc-264b-4149-a5a0-ab0079e5dc45",
+  "path": "plugins/platform/oh-my-antigravity/skills/taskboard",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/taskboard",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

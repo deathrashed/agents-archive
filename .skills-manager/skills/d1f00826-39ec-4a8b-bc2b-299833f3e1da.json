@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d1f00826-39ec-4a8b-bc2b-299833f3e1da",
+  "path": "plugins/workflow/hookify/skills/writing-rules",
+  "path_key": "plugins/workflow/hookify/skills/writing-rules",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

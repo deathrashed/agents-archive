@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ece0ee05-2dac-4ee6-8900-c8556c859806",
+  "path": "plugins/omo/skills/comment-checker",
+  "path_key": "plugins/omo/skills/comment-checker",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

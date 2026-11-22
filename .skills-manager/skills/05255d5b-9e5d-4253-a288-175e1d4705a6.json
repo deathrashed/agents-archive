@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "05255d5b-9e5d-4253-a288-175e1d4705a6",
+  "path": "skills/mac-disk-audit",
+  "path_key": "skills/mac-disk-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

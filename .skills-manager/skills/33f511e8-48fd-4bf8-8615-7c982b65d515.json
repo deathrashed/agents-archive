@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "33f511e8-48fd-4bf8-8615-7c982b65d515",
+  "path": "providers/openai/skills/.curated/notion-meeting-intelligence",
+  "path_key": "providers/openai/skills/.curated/notion-meeting-intelligence",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

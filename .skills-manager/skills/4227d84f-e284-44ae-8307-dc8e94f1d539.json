@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4227d84f-e284-44ae-8307-dc8e94f1d539",
+  "path": "plugins/integrations/maestro/skills/debug",
+  "path_key": "plugins/integrations/maestro/skills/debug",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

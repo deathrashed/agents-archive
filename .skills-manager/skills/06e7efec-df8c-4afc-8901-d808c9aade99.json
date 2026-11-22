@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "06e7efec-df8c-4afc-8901-d808c9aade99",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/team-plan",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/team-plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

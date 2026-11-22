@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cfa2a937-11d4-4c99-9a8a-baefe0261d16",
+  "path": "plugins/codex/curated/canva/skills/canva-branded-presentation",
+  "path_key": "plugins/codex/curated/canva/skills/canva-branded-presentation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

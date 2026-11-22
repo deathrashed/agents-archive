@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a1e4600e-4100-45e2-8e6b-f4fe8c6afecd",
+  "path": "skills/docker-production",
+  "path_key": "skills/docker-production",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

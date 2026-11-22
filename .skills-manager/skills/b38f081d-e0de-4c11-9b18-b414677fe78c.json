@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b38f081d-e0de-4c11-9b18-b414677fe78c",
+  "path": "plugins/other/plugin-dev/skills/mcp-integration",
+  "path_key": "plugins/other/plugin-dev/skills/mcp-integration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

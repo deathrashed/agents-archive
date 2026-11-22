@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e180f35f-548a-46aa-8f0e-3c573c7eb01d",
+  "path": "plugins/omo/skills/review-work",
+  "path_key": "plugins/omo/skills/review-work",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

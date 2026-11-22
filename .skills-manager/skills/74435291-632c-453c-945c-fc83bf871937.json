@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "74435291-632c-453c-945c-fc83bf871937",
+  "path": "plugins/codex/curated-remote/figma/skills/figma-use-figjam",
+  "path_key": "plugins/codex/curated-remote/figma/skills/figma-use-figjam",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

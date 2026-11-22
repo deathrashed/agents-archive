@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c3f854fd-c97a-40c5-bb82-f50850d59077",
+  "path": ".agents/skills/oma-hwp",
+  "path_key": ".agents/skills/oma-hwp",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

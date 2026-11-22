@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ae40eb58-22f3-47ec-ad7e-72e149f12fa0",
+  "path": "skills/superset-setup",
+  "path_key": "skills/superset-setup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

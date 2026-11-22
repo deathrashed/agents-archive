@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "15064e80-e2ac-41b5-b4e7-d1115916db61",
+  "path": "skills/swarm-orchestration",
+  "path_key": "skills/swarm-orchestration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

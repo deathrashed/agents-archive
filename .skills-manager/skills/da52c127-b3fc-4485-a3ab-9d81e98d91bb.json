@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "da52c127-b3fc-4485-a3ab-9d81e98d91bb",
+  "path": "plugins/codex/curated-remote/remotion/skills/remotion",
+  "path_key": "plugins/codex/curated-remote/remotion/skills/remotion",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

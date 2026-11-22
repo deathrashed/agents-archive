@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9df0ea86-2a6f-4c96-a400-d83086ec8951",
+  "path": "plugins/codex/bundled/visualize/skills/visualize",
+  "path_key": "plugins/codex/bundled/visualize/skills/visualize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

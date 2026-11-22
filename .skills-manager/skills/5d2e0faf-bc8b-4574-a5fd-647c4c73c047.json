@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5d2e0faf-bc8b-4574-a5fd-647c4c73c047",
+  "path": "skills/wrap-up",
+  "path_key": "skills/wrap-up",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

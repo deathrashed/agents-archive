@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b347b7cd-8bab-481a-a51e-833a3a9c5868",
+  "path": "plugins/integrations/gemini-kit/skills/video",
+  "path_key": "plugins/integrations/gemini-kit/skills/video",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

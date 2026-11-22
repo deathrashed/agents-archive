@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "13428d52-73d2-4c3e-9279-d25ddf00c9fc",
+  "path": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-operating-calendar",
+  "path_key": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-operating-calendar",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

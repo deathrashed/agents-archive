@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9701f475-97b9-41e9-845f-0447432a7596",
+  "path": "skillz/codex/hud",
+  "path_key": "skillz/codex/hud",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

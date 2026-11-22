@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d3252ea7-d0c5-427e-8087-4aba44820cff",
+  "path": "providers/openai/skills/.curated/slides",
+  "path_key": "providers/openai/skills/.curated/slides",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

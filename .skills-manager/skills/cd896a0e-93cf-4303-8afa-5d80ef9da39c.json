@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cd896a0e-93cf-4303-8afa-5d80ef9da39c",
+  "path": "skills/agentdb-memory-patterns",
+  "path_key": "skills/agentdb-memory-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

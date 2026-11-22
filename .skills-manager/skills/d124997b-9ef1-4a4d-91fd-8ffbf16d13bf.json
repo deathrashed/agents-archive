@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d124997b-9ef1-4a4d-91fd-8ffbf16d13bf",
+  "path": "skills/source-command-coordination-spawn",
+  "path_key": "skills/source-command-coordination-spawn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

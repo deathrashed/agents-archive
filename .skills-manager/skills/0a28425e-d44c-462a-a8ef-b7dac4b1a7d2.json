@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0a28425e-d44c-462a-a8ef-b7dac4b1a7d2",
+  "path": "providers/openai/skills/.curated/figma-use",
+  "path_key": "providers/openai/skills/.curated/figma-use",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

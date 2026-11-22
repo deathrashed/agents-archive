@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ffcd7d0f-4909-4dbb-a66d-d2be8998d217",
+  "path": "plugins/platform/oh-my-antigravity/skills/team-assemble",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/team-assemble",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

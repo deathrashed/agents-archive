@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fa428c49-9e8e-4fd1-9f68-0a8b8f854731",
+  "path": "skills/go-best-practices",
+  "path_key": "skills/go-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

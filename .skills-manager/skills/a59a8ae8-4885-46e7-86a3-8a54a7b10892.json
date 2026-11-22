@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a59a8ae8-4885-46e7-86a3-8a54a7b10892",
+  "path": "skills/parallel-worktrees",
+  "path_key": "skills/parallel-worktrees",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

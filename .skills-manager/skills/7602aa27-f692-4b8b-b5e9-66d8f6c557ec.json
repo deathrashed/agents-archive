@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7602aa27-f692-4b8b-b5e9-66d8f6c557ec",
+  "path": "plugins/codex/curated-remote/netlify/skills/netlify-edge-functions",
+  "path_key": "plugins/codex/curated-remote/netlify/skills/netlify-edge-functions",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

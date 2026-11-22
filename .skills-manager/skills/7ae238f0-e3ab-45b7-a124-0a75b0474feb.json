@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7ae238f0-e3ab-45b7-a124-0a75b0474feb",
+  "path": "skills/chrome-extensions",
+  "path_key": "skills/chrome-extensions",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

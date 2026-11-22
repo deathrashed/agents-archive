@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ad39e9dd-c8be-49b8-bf2d-22076f03438b",
+  "path": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-team-alignment",
+  "path_key": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-team-alignment",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

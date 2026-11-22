@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "101b6bef-3f96-44ce-bd16-65699066cee3",
+  "path": "skills/_gstack-command",
+  "path_key": "skills/_gstack-command",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

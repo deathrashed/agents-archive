@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3cef2e8a-dc26-476f-a193-7c41aad8930f",
+  "path": "skills/thesvg",
+  "path_key": "skills/thesvg",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

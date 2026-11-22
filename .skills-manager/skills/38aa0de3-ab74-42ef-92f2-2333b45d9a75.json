@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "38aa0de3-ab74-42ef-92f2-2333b45d9a75",
+  "path": "skills/connect-chrome",
+  "path_key": "skills/connect-chrome",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ccb9e1e0-06d6-4480-b636-8625be613d07",
+  "path": "skills/docker-storage",
+  "path_key": "skills/docker-storage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a926d662-8932-4ec5-b4c1-12bbdbde87a8",
+  "path": "skills/skill-router",
+  "path_key": "skills/skill-router",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

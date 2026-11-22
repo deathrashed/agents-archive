@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "df9c2a90-f63f-4734-8bc0-ab49a8fb7b15",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/team-prd",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/team-prd",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

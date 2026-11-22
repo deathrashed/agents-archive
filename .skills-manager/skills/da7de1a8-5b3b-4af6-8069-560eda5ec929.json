@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "da7de1a8-5b3b-4af6-8069-560eda5ec929",
+  "path": ".agents/skills/oma-mobile",
+  "path_key": ".agents/skills/oma-mobile",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "202bfefe-8054-44a5-b1b8-14f1816d205f",
+  "path": "plugins/codex/primary-runtime/template-creator/skills/template-creator",
+  "path_key": "plugins/codex/primary-runtime/template-creator/skills/template-creator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

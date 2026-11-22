@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8f3f2962-5139-499a-8b60-7f1d8a415fe5",
+  "path": "skills/superset-integrations",
+  "path_key": "skills/superset-integrations",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

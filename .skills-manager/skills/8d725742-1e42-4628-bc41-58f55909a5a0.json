@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8d725742-1e42-4628-bc41-58f55909a5a0",
+  "path": "plugins/platform/oh-my-antigravity/skills/deep-dive",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/deep-dive",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

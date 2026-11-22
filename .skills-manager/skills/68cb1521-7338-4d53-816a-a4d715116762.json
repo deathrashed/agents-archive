@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "68cb1521-7338-4d53-816a-a4d715116762",
+  "path": "plugins/integrations/gemini-kit/skills/code-review",
+  "path_key": "plugins/integrations/gemini-kit/skills/code-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

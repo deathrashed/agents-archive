@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "34a4085a-c1a7-4058-b389-60b4ffd71ec8",
+  "path": "providers/openai/skills/.curated/frontend-skill",
+  "path_key": "providers/openai/skills/.curated/frontend-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

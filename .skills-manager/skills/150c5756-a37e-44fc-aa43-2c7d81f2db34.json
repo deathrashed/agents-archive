@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "150c5756-a37e-44fc-aa43-2c7d81f2db34",
+  "path": "skills/simlock",
+  "path_key": "skills/simlock",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

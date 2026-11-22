@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "80febbce-5ef1-4d4d-b016-beb6cb1c150f",
+  "path": "plugins/integrations/gemini-kit/skills/file-todos",
+  "path_key": "plugins/integrations/gemini-kit/skills/file-todos",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

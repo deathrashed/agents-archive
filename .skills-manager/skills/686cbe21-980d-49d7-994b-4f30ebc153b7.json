@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "686cbe21-980d-49d7-994b-4f30ebc153b7",
+  "path": "plugins/integrations/gemini-kit/skills/api-design",
+  "path_key": "plugins/integrations/gemini-kit/skills/api-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

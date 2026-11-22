@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b500ba79-0c32-4266-a73f-e20db69536fd",
+  "path": "plugins/codex/curated/notion/skills/notion-research-documentation",
+  "path_key": "plugins/codex/curated/notion/skills/notion-research-documentation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

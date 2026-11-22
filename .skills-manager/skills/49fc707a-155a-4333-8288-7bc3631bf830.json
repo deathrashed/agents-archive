@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "49fc707a-155a-4333-8288-7bc3631bf830",
+  "path": "skills/shieldcn-badges",
+  "path_key": "skills/shieldcn-badges",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

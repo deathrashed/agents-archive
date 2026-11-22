@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c932bf68-e0b3-464b-8c77-002b5f84ac9d",
+  "path": "skills/omx-setup",
+  "path_key": "skills/omx-setup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

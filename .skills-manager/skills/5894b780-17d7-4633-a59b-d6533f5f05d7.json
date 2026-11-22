@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5894b780-17d7-4633-a59b-d6533f5f05d7",
+  "path": "skills/microsoft-foundry/models/deploy-model/capacity",
+  "path_key": "skills/microsoft-foundry/models/deploy-model/capacity",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "be3a8a50-a3e9-4194-87d8-d94301801137",
+  "path": "plugins/omo/skills/frontend",
+  "path_key": "plugins/omo/skills/frontend",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a862f8ba-b1ae-4da4-b895-436bd46b2cae",
+  "path": "skills/docker-basics",
+  "path_key": "skills/docker-basics",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

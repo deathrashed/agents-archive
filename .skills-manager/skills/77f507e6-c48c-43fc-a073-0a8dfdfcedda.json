@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "77f507e6-c48c-43fc-a073-0a8dfdfcedda",
+  "path": "plugins/platform/oh-my-antigravity/skills/team-plan",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/team-plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

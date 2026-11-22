@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "98d66dd7-c20f-4ec2-baad-f97c33760a49",
+  "path": "skills/ghostex-spaceo",
+  "path_key": "skills/ghostex-spaceo",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

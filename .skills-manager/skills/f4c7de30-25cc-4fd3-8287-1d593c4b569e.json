@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f4c7de30-25cc-4fd3-8287-1d593c4b569e",
+  "path": "skills/cua-spaces",
+  "path_key": "skills/cua-spaces",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

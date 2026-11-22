@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ec029bd3-0a30-49ab-996d-9cbdd9105386",
+  "path": "skills/source-command-monitoring-status",
+  "path_key": "skills/source-command-monitoring-status",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

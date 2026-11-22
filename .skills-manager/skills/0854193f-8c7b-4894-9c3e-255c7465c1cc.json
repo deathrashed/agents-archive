@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0854193f-8c7b-4894-9c3e-255c7465c1cc",
+  "path": "providers/openai/skills/.curated/notion-research-documentation",
+  "path_key": "providers/openai/skills/.curated/notion-research-documentation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

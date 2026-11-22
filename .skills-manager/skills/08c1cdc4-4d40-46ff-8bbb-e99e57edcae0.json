@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "08c1cdc4-4d40-46ff-8bbb-e99e57edcae0",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/recall",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/recall",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

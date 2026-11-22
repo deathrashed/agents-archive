@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b8cc4d47-ae6f-4110-bf71-300ec4f39d79",
+  "path": "skills/afk",
+  "path_key": "skills/afk",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

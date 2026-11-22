@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1af43b00-462b-4235-b846-a39d8bd556fc",
+  "path": "plugins/codex/curated/google-drive/skills/google-drive-comments",
+  "path_key": "plugins/codex/curated/google-drive/skills/google-drive-comments",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

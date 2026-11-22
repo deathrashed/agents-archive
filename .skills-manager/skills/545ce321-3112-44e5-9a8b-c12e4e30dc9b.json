@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "545ce321-3112-44e5-9a8b-c12e4e30dc9b",
+  "path": "skillz/system/skillz-discovery",
+  "path_key": "skillz/system/skillz-discovery",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

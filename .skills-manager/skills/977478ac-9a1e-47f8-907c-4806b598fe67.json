@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "977478ac-9a1e-47f8-907c-4806b598fe67",
+  "path": "skills/visual-ralph",
+  "path_key": "skills/visual-ralph",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

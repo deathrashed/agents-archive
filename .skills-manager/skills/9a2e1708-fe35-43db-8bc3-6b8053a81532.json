@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9a2e1708-fe35-43db-8bc3-6b8053a81532",
+  "path": "plugins/integrations/gemini-kit/skills/react-patterns",
+  "path_key": "plugins/integrations/gemini-kit/skills/react-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

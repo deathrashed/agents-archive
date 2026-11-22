@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a38446d0-e5cb-426d-875f-50787aa939e2",
+  "path": "plugins/integrations/gemini-kit/skills/copywrite",
+  "path_key": "plugins/integrations/gemini-kit/skills/copywrite",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

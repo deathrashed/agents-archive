@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "afe9ac53-c824-4a48-a27e-92b7d42b3f96",
+  "path": "skillz/superpowers/using-git-worktrees",
+  "path_key": "skillz/superpowers/using-git-worktrees",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

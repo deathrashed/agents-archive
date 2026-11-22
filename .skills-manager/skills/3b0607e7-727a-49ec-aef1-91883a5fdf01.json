@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b0607e7-727a-49ec-aef1-91883a5fdf01",
+  "path": "skillz/riley/km-macro-creator",
+  "path_key": "skillz/riley/km-macro-creator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

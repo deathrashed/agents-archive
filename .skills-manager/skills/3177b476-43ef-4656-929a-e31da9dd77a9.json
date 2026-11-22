@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3177b476-43ef-4656-929a-e31da9dd77a9",
+  "path": "skills/gsd-execute-phase",
+  "path_key": "skills/gsd-execute-phase",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

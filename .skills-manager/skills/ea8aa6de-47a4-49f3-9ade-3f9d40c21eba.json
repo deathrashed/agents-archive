@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ea8aa6de-47a4-49f3-9ade-3f9d40c21eba",
+  "path": "skills/cua-volume",
+  "path_key": "skills/cua-volume",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d768ee72-5e96-4e53-abfd-61cd629e86b9",
+  "path": "skills/pr",
+  "path_key": "skills/pr",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "4c3d2f01-27c3-40b7-885c-4f3ec6caa742",
+  "path": ".agents/skills/oma-market",
+  "path_key": ".agents/skills/oma-market",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

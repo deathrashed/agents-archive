@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e35dd90f-35d4-460f-b7de-18083fda662a",
+  "path": "plugins/integrations/gemini-kit/skills/cook",
+  "path_key": "plugins/integrations/gemini-kit/skills/cook",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

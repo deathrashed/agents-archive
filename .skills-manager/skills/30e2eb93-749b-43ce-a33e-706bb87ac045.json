@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "30e2eb93-749b-43ce-a33e-706bb87ac045",
+  "path": "skills/ghostex-agents",
+  "path_key": "skills/ghostex-agents",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

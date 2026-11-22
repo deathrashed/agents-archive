@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5496ee57-0dbe-43f6-acde-9adef5c9b27c",
+  "path": "skills/docker-troubleshooting",
+  "path_key": "skills/docker-troubleshooting",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

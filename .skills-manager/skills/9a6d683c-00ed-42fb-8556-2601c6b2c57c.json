@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9a6d683c-00ed-42fb-8556-2601c6b2c57c",
+  "path": "plugins/codex/curated-remote/netlify/skills/netlify-forms",
+  "path_key": "plugins/codex/curated-remote/netlify/skills/netlify-forms",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

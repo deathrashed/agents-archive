@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cdd59dda-d46d-42f9-80de-25087e2a7483",
+  "path": "skills/review-security",
+  "path_key": "skills/review-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

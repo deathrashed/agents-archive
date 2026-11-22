@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3eda8360-4638-461c-9462-3fc61552c12d",
+  "path": "plugins/codex/curated-remote/build-macos-apps/skills/swiftpm-macos",
+  "path_key": "plugins/codex/curated-remote/build-macos-apps/skills/swiftpm-macos",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

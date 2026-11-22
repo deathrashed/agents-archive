@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c6622780-a0ff-4fb0-948f-9d969bb4a549",
+  "path": "skills/autopilot",
+  "path_key": "skills/autopilot",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

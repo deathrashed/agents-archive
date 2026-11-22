@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "073c43a6-9c97-4745-a0e1-60cab29050be",
+  "path": ".agents/skills/oma-tf-infra",
+  "path_key": ".agents/skills/oma-tf-infra",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

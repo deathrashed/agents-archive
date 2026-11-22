@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aa214bd6-e394-4b12-aa7f-70f90334b203",
+  "path": "skills/hud",
+  "path_key": "skills/hud",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

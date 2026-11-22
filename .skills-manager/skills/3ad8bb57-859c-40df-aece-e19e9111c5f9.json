@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3ad8bb57-859c-40df-aece-e19e9111c5f9",
+  "path": "skills/performance-goal",
+  "path_key": "skills/performance-goal",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

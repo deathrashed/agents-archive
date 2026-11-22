@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c24d53a3-299c-4eee-bb79-ff6b9d2d63b1",
+  "path": "skillz/coding/go",
+  "path_key": "skillz/coding/go",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

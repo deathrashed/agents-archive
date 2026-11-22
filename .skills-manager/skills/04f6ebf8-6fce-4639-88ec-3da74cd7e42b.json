@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "04f6ebf8-6fce-4639-88ec-3da74cd7e42b",
+  "path": "plugins/integrations/maestro/skills/seo-audit",
+  "path_key": "plugins/integrations/maestro/skills/seo-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

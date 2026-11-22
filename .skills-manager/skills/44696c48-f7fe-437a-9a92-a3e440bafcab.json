@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "44696c48-f7fe-437a-9a92-a3e440bafcab",
+  "path": "skills/github-workflow-automation",
+  "path_key": "skills/github-workflow-automation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

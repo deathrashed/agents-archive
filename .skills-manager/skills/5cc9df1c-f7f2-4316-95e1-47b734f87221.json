@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5cc9df1c-f7f2-4316-95e1-47b734f87221",
+  "path": "skills/docker-ai-ml",
+  "path_key": "skills/docker-ai-ml",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

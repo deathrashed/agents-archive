@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b2a169ec-4b21-4214-b77f-71136fe04964",
+  "path": "skills/ghostex-cli",
+  "path_key": "skills/ghostex-cli",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

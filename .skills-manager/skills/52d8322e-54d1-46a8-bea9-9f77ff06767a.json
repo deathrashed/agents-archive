@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "52d8322e-54d1-46a8-bea9-9f77ff06767a",
+  "path": "skillz/superpowers/executing-plans",
+  "path_key": "skillz/superpowers/executing-plans",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

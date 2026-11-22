@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a64a8787-72df-4d57-9d30-e0b66e91a9a4",
+  "path": "plugins/integrations/maestro/skills/review",
+  "path_key": "plugins/integrations/maestro/skills/review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

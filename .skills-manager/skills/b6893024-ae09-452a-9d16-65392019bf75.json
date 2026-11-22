@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b6893024-ae09-452a-9d16-65392019bf75",
+  "path": "plugins/codex/curated/build-web-apps/skills/supabase-best-practices",
+  "path_key": "plugins/codex/curated/build-web-apps/skills/supabase-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

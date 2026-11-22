@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ec281375-204b-41e6-bf62-a595bebab287",
+  "path": "skills/superset/skills/doctor",
+  "path_key": "skills/superset/skills/doctor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

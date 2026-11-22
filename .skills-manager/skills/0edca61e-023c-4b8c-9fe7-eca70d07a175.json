@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0edca61e-023c-4b8c-9fe7-eca70d07a175",
+  "path": "skills/plan-interrogate",
+  "path_key": "skills/plan-interrogate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

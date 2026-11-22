@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "045eaa84-481a-4da2-8fb5-4d2f00b94d43",
+  "path": "plugins/platform/oh-my-antigravity/skills/rules",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/rules",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

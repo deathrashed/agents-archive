@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "edfae690-8ba4-441b-8f58-782251cd556d",
+  "path": "plugins/other/plugin-dev/skills/plugin-structure",
+  "path_key": "plugins/other/plugin-dev/skills/plugin-structure",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

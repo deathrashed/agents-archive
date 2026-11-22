@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a8d070df-c22f-43d7-8618-e4ed1aa30ba9",
+  "path": "skills/replay-learnings",
+  "path_key": "skills/replay-learnings",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

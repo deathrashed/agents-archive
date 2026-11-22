@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eb199877-3a83-4d4f-90c1-daf968fc7529",
+  "path": "skillz/codex/.system/skill-creator",
+  "path_key": "skillz/codex/.system/skill-creator",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

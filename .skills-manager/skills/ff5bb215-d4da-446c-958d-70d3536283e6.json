@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ff5bb215-d4da-446c-958d-70d3536283e6",
+  "path": "skills/ghostex-manage-beads",
+  "path_key": "skills/ghostex-manage-beads",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

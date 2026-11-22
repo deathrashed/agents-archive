@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e026f074-668b-4ab8-b65d-73fb3c25182b",
+  "path": "plugins/codex/bundled/browser/skills/control-in-app-browser",
+  "path_key": "plugins/codex/bundled/browser/skills/control-in-app-browser",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f8735890-efe5-4e5c-9d50-528c612887b4",
+  "path": "providers/openai/skills/.curated/security-ownership-map",
+  "path_key": "providers/openai/skills/.curated/security-ownership-map",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d047b6b8-625e-4a18-a6f8-be1c9aa123e1",
+  "path": "skills/lean-build",
+  "path_key": "skills/lean-build",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e921d173-3375-4549-8e8b-ca6ed50d3365",
+  "path": "skills/break",
+  "path_key": "skills/break",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

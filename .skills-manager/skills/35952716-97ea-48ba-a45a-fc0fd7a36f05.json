@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "35952716-97ea-48ba-a45a-fc0fd7a36f05",
+  "path": "plugins/workflow/autocode/skills/performance",
+  "path_key": "plugins/workflow/autocode/skills/performance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

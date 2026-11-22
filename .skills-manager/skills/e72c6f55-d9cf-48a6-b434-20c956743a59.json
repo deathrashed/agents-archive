@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e72c6f55-d9cf-48a6-b434-20c956743a59",
+  "path": "skills/github-release-management",
+  "path_key": "skills/github-release-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

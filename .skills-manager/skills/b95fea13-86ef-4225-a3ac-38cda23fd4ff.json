@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b95fea13-86ef-4225-a3ac-38cda23fd4ff",
+  "path": "providers/openai/skills/.system/skill-installer",
+  "path_key": "providers/openai/skills/.system/skill-installer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

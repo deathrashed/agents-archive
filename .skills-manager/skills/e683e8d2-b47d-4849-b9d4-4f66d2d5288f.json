@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e683e8d2-b47d-4849-b9d4-4f66d2d5288f",
+  "path": "plugins/integrations/gemini-kit/skills/session-resume",
+  "path_key": "plugins/integrations/gemini-kit/skills/session-resume",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "12429639-da82-4b15-a3a2-5f4caa9b261f",
+  "path": "plugins/codex/bundled/computer-use/skills/computer-use",
+  "path_key": "plugins/codex/bundled/computer-use/skills/computer-use",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

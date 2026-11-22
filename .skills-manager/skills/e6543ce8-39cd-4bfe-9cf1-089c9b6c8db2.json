@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e6543ce8-39cd-4bfe-9cf1-089c9b6c8db2",
+  "path": "providers/oma/.agents/skills/oma-brainstorm",
+  "path_key": "providers/oma/.agents/skills/oma-brainstorm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

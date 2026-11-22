@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "46e7df8e-05e2-4c4e-87dd-55fd7f7dc097",
+  "path": "plugins/workflow/autocode/skills/build-ui",
+  "path_key": "plugins/workflow/autocode/skills/build-ui",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

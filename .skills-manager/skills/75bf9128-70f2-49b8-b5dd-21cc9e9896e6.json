@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "75bf9128-70f2-49b8-b5dd-21cc9e9896e6",
+  "path": "skills/tailscale",
+  "path_key": "skills/tailscale",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

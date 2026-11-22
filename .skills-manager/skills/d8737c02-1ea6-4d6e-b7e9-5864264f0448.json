@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d8737c02-1ea6-4d6e-b7e9-5864264f0448",
+  "path": "plugins/platform/oh-my-antigravity/skills/consensus",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/consensus",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

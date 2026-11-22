@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bdffcd9d-9d5b-49e2-be74-f76be7e7fe33",
+  "path": "plugins/codex/curated/figma/skills/figma-generate-design",
+  "path_key": "plugins/codex/curated/figma/skills/figma-generate-design",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

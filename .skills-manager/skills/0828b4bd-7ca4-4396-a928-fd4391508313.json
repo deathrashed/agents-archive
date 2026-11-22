@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0828b4bd-7ca4-4396-a928-fd4391508313",
+  "path": "skills/agentdb-optimization",
+  "path_key": "skills/agentdb-optimization",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

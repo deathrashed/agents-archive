@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9ac1d887-c125-4a82-911c-e7278b5cab41",
+  "path": "skillz/superpowers/receiving-code-review",
+  "path_key": "skillz/superpowers/receiving-code-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

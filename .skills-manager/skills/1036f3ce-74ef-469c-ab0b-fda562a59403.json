@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1036f3ce-74ef-469c-ab0b-fda562a59403",
+  "path": "providers/openai/skills/.curated/imagegen",
+  "path_key": "providers/openai/skills/.curated/imagegen",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

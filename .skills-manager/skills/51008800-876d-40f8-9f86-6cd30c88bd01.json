@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "51008800-876d-40f8-9f86-6cd30c88bd01",
+  "path": "plugins/codex/curated-remote/netlify/skills/netlify-image-cdn",
+  "path_key": "plugins/codex/curated-remote/netlify/skills/netlify-image-cdn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

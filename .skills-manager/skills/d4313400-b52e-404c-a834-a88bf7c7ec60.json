@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d4313400-b52e-404c-a834-a88bf7c7ec60",
+  "path": ".agents/skills/oma-pm",
+  "path_key": ".agents/skills/oma-pm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

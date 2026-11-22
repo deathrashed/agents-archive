@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7c2f45cf-b351-45fb-bf78-3ba6b47380fa",
+  "path": "skills/superset-orchestrate",
+  "path_key": "skills/superset-orchestrate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

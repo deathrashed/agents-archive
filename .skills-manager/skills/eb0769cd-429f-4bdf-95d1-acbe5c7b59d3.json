@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eb0769cd-429f-4bdf-95d1-acbe5c7b59d3",
+  "path": "plugins/workflow/autocode/skills/env-setup",
+  "path_key": "plugins/workflow/autocode/skills/env-setup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

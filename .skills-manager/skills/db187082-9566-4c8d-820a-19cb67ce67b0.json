@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "db187082-9566-4c8d-820a-19cb67ce67b0",
+  "path": "plugins/platform/oh-my-antigravity/skills/cancel",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/cancel",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

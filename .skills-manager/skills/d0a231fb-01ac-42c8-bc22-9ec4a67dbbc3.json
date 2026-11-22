@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d0a231fb-01ac-42c8-bc22-9ec4a67dbbc3",
+  "path": "skills/acquire-codebase-knowledge",
+  "path_key": "skills/acquire-codebase-knowledge",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

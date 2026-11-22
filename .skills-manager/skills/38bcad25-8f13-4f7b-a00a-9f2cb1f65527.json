@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "38bcad25-8f13-4f7b-a00a-9f2cb1f65527",
+  "path": "skills/mcp-audit",
+  "path_key": "skills/mcp-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

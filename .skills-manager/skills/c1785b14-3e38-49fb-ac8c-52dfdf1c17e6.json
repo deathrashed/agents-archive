@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c1785b14-3e38-49fb-ac8c-52dfdf1c17e6",
+  "path": "skills/github-project-management",
+  "path_key": "skills/github-project-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "31c95b23-a19c-4d33-857f-47111ed8f4f1",
+  "path": "plugins/codex/curated-remote/build-macos-apps/skills/window-management",
+  "path_key": "plugins/codex/curated-remote/build-macos-apps/skills/window-management",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

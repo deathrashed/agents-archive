@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c663daaf-a6f5-4550-9de3-1fd96f412d44",
+  "path": "skills/github-multi-repo",
+  "path_key": "skills/github-multi-repo",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

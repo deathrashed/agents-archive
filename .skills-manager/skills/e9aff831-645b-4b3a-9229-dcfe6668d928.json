@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e9aff831-645b-4b3a-9229-dcfe6668d928",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/team-fix",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/team-fix",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

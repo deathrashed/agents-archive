@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a2f5b16e-81d4-4f3f-9a9b-410e2eb1a89d",
+  "path": "providers/openai/skills/.curated/aspnet-core",
+  "path_key": "providers/openai/skills/.curated/aspnet-core",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "31070254-5882-4c6d-8b4c-870da35bbd09",
+  "path": "plugins/codex/curated/hugging-face/skills/trackio",
+  "path_key": "plugins/codex/curated/hugging-face/skills/trackio",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

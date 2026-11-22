@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d9d416f4-5da5-411c-850c-8d5c57c0771b",
+  "path": "providers/oma/.agents/skills/oma-voice",
+  "path_key": "providers/oma/.agents/skills/oma-voice",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

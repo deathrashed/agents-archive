@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b467fa34-d056-45ef-85da-08dacf802a2f",
+  "path": "plugins/platform/oh-my-antigravity/skills/team-exec",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/team-exec",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

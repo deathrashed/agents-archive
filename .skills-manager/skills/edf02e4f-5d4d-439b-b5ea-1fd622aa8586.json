@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "edf02e4f-5d4d-439b-b5ea-1fd622aa8586",
+  "path": "skills/pr-review",
+  "path_key": "skills/pr-review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

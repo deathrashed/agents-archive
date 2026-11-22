@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "30ba324f-4523-43ba-98f7-96392bbfd059",
+  "path": "plugins/platform/oh-my-antigravity/skills/ralph",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/ralph",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

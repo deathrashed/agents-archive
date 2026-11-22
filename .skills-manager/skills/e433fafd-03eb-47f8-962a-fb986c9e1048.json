@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e433fafd-03eb-47f8-962a-fb986c9e1048",
+  "path": "skills/claude-skill",
+  "path_key": "skills/claude-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

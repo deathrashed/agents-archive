@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "71e733bf-ccf5-48bc-bcb3-b239ae2687ff",
+  "path": "skills/cli-hub-meta-skill",
+  "path_key": "skills/cli-hub-meta-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

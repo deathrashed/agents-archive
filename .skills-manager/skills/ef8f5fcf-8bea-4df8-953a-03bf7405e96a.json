@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ef8f5fcf-8bea-4df8-953a-03bf7405e96a",
+  "path": "plugins/workflow/autocode/skills/deploy-global",
+  "path_key": "plugins/workflow/autocode/skills/deploy-global",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

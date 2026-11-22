@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a02d88d4-d8d0-4c01-8506-0f00280ad2a8",
+  "path": "plugins/codex/curated/notion/skills/notion-knowledge-capture",
+  "path_key": "plugins/codex/curated/notion/skills/notion-knowledge-capture",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

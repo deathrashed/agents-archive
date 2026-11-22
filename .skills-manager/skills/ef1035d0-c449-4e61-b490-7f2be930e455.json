@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ef1035d0-c449-4e61-b490-7f2be930e455",
+  "path": "skills/source-command-coordination-orchestrate",
+  "path_key": "skills/source-command-coordination-orchestrate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "99617fe9-dfa5-43cf-b438-2e90a1b00dd1",
+  "path": "skills/cost-tracker",
+  "path_key": "skills/cost-tracker",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

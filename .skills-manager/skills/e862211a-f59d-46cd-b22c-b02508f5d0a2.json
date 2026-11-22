@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e862211a-f59d-46cd-b22c-b02508f5d0a2",
+  "path": "skills/source-command-github-github-modes",
+  "path_key": "skills/source-command-github-github-modes",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

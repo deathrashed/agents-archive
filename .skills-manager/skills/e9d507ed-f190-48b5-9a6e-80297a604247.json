@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e9d507ed-f190-48b5-9a6e-80297a604247",
+  "path": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-sales-pipeline",
+  "path_key": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-sales-pipeline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

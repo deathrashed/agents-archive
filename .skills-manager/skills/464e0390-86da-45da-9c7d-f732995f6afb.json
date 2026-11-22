@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "464e0390-86da-45da-9c7d-f732995f6afb",
+  "path": "plugins/codex/curated-remote/gmail/skills/gmail-inbox-triage",
+  "path_key": "plugins/codex/curated-remote/gmail/skills/gmail-inbox-triage",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

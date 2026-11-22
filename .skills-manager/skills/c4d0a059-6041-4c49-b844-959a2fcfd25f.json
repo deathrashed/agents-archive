@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c4d0a059-6041-4c49-b844-959a2fcfd25f",
+  "path": "skillz/superpowers/systematic-debugging",
+  "path_key": "skillz/superpowers/systematic-debugging",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

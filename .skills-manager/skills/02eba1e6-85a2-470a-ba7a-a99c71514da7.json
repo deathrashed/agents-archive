@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "02eba1e6-85a2-470a-ba7a-a99c71514da7",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/ralplan",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/ralplan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

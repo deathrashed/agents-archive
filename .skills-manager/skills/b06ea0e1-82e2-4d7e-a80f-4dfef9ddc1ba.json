@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b06ea0e1-82e2-4d7e-a80f-4dfef9ddc1ba",
+  "path": "plugins/integrations/gemini-kit/skills/workflow",
+  "path_key": "plugins/integrations/gemini-kit/skills/workflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

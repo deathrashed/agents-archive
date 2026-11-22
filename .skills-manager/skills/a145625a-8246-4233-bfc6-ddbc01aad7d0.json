@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a145625a-8246-4233-bfc6-ddbc01aad7d0",
+  "path": "plugins/integrations/maestro/skills/a11y-audit",
+  "path_key": "plugins/integrations/maestro/skills/a11y-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

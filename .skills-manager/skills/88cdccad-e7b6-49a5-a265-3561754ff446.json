@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "88cdccad-e7b6-49a5-a265-3561754ff446",
+  "path": "providers/openai/skills/.curated/develop-web-game",
+  "path_key": "providers/openai/skills/.curated/develop-web-game",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

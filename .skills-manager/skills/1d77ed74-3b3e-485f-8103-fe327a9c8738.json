@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1d77ed74-3b3e-485f-8103-fe327a9c8738",
+  "path": "plugins/platform/oh-my-antigravity/skills/recall",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/recall",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

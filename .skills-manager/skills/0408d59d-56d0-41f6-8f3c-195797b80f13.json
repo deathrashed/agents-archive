@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0408d59d-56d0-41f6-8f3c-195797b80f13",
+  "path": "providers/openai/skills/.curated/figma-code-connect-components",
+  "path_key": "providers/openai/skills/.curated/figma-code-connect-components",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

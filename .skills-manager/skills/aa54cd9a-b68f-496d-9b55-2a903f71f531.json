@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "aa54cd9a-b68f-496d-9b55-2a903f71f531",
+  "path": "plugins/codex/omx-product/skills/review",
+  "path_key": "plugins/codex/omx-product/skills/review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

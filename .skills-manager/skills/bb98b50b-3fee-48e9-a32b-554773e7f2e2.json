@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bb98b50b-3fee-48e9-a32b-554773e7f2e2",
+  "path": "plugins/codex/primary-runtime/spreadsheets/skills/excel-live-control",
+  "path_key": "plugins/codex/primary-runtime/spreadsheets/skills/excel-live-control",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

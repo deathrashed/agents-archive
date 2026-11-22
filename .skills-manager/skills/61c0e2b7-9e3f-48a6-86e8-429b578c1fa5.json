@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "61c0e2b7-9e3f-48a6-86e8-429b578c1fa5",
+  "path": "plugins/platform/oh-my-antigravity/skills/hooks-init",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/hooks-init",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

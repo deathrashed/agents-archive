@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "52464d3b-5cf9-4ad8-b710-cebb2aaafa5d",
+  "path": "plugins/workflow/autocode/skills/best-choice",
+  "path_key": "plugins/workflow/autocode/skills/best-choice",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "657b6452-5a72-46fc-9e4a-3f76aa9deb6e",
+  "path": "skills/run-train",
+  "path_key": "skills/run-train",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

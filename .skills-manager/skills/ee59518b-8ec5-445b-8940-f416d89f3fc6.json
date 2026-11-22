@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ee59518b-8ec5-445b-8940-f416d89f3fc6",
+  "path": "plugins/codex/curated/hugging-face/skills/community-evals",
+  "path_key": "plugins/codex/curated/hugging-face/skills/community-evals",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

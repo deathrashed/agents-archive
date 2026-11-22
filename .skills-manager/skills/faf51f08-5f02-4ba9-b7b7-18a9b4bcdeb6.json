@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "faf51f08-5f02-4ba9-b7b7-18a9b4bcdeb6",
+  "path": "skillz/codex/.system/skill-installer",
+  "path_key": "skillz/codex/.system/skill-installer",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

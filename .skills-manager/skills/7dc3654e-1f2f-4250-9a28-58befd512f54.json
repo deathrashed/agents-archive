@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7dc3654e-1f2f-4250-9a28-58befd512f54",
+  "path": "skills/ghostex-computer-use",
+  "path_key": "skills/ghostex-computer-use",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

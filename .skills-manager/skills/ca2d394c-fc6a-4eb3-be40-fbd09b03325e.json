@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ca2d394c-fc6a-4eb3-be40-fbd09b03325e",
+  "path": "plugins/codex/primary-runtime/presentations/skills/presentations",
+  "path_key": "plugins/codex/primary-runtime/presentations/skills/presentations",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

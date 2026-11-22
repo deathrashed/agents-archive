@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1b035e5b-e9e4-4541-9277-16cf94ec8525",
+  "path": "skills/cancel",
+  "path_key": "skills/cancel",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

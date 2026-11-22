@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b50c991e-752d-4d68-be39-41386ea7b407",
+  "path": "plugins/workflow/autocode/skills/plan-estimate",
+  "path_key": "plugins/workflow/autocode/skills/plan-estimate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

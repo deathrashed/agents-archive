@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "16b2cbff-be71-48ae-ae25-ac66e32635fb",
+  "path": "skills/review",
+  "path_key": "skills/review",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7a7fc465-f22f-462d-bc1f-3ecf13fd0ca5",
+  "path": "skillz/codex/executor",
+  "path_key": "skillz/codex/executor",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

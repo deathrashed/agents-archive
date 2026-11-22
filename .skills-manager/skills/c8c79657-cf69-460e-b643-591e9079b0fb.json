@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c8c79657-cf69-460e-b643-591e9079b0fb",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/plan",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/plan",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

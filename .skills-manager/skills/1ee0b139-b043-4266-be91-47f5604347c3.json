@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1ee0b139-b043-4266-be91-47f5604347c3",
+  "path": "plugins/integrations/maestro/skills/security-audit",
+  "path_key": "plugins/integrations/maestro/skills/security-audit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

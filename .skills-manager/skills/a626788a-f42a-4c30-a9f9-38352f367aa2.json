@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a626788a-f42a-4c30-a9f9-38352f367aa2",
+  "path": "skills/specstory-yak",
+  "path_key": "skills/specstory-yak",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

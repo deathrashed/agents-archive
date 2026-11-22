@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7041b2d0-6af7-45fe-9107-632ac9e5348d",
+  "path": "skills/source-command-monitoring-agents",
+  "path_key": "skills/source-command-monitoring-agents",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

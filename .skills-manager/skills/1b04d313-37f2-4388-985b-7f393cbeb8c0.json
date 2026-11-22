@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1b04d313-37f2-4388-985b-7f393cbeb8c0",
+  "path": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-project-tracker",
+  "path_key": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-project-tracker",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f3ff8f36-9bda-417f-b956-74759040f284",
+  "path": "skills/smart-commit",
+  "path_key": "skills/smart-commit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

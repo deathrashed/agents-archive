@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3912a32b-3e80-4ae2-be2a-388cc33c080e",
+  "path": "providers/openai/skills/.curated/figma-create-design-system-rules",
+  "path_key": "providers/openai/skills/.curated/figma-create-design-system-rules",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

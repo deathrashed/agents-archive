@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5794172a-ff18-496d-b31d-e7d2e1197ea9",
+  "path": "plugins/codex/curated/build-ios-apps/skills/swiftui-ui-patterns",
+  "path_key": "plugins/codex/curated/build-ios-apps/skills/swiftui-ui-patterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

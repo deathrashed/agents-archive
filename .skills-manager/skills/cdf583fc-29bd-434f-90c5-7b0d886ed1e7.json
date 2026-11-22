@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cdf583fc-29bd-434f-90c5-7b0d886ed1e7",
+  "path": "skills/docker-security",
+  "path_key": "skills/docker-security",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

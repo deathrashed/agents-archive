@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e5c1e829-6093-4adb-8830-bb28ba11db9e",
+  "path": "skills/compact-guard",
+  "path_key": "skills/compact-guard",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

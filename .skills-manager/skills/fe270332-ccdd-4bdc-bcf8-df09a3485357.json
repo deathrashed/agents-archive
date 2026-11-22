@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fe270332-ccdd-4bdc-bcf8-df09a3485357",
+  "path": "skills/visualize",
+  "path_key": "skills/visualize",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

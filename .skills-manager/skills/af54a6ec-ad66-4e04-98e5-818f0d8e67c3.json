@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "af54a6ec-ad66-4e04-98e5-818f0d8e67c3",
+  "path": "skills/source-command-github-issue-tracker",
+  "path_key": "skills/source-command-github-issue-tracker",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

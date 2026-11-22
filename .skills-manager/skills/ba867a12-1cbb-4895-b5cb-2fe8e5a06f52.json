@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ba867a12-1cbb-4895-b5cb-2fe8e5a06f52",
+  "path": "plugins/integrations/gemini-kit/skills/orchestration",
+  "path_key": "plugins/integrations/gemini-kit/skills/orchestration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

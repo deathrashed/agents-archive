@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "74fb2289-caf6-4e78-b351-2311d54bb9d1",
+  "path": "skills/chief-of-staff",
+  "path_key": "skills/chief-of-staff",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

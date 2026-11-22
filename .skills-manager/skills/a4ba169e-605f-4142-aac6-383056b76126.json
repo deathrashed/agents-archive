@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a4ba169e-605f-4142-aac6-383056b76126",
+  "path": "skills/source-command-github-pr-manager",
+  "path_key": "skills/source-command-github-pr-manager",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

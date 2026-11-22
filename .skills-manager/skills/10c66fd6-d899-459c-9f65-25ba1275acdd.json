@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "10c66fd6-d899-459c-9f65-25ba1275acdd",
+  "path": "plugins/codex/omx-product/skills/ultrawork",
+  "path_key": "plugins/codex/omx-product/skills/ultrawork",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "380af9c6-3599-4422-a086-eed9e8f0a970",
+  "path": "plugins/examples/example-plugin/skills/example-skill",
+  "path_key": "plugins/examples/example-plugin/skills/example-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

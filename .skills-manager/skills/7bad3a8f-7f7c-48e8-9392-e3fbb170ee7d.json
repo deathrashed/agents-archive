@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7bad3a8f-7f7c-48e8-9392-e3fbb170ee7d",
+  "path": "skills/agent-teams",
+  "path_key": "skills/agent-teams",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

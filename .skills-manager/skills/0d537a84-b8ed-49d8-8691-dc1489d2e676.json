@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0d537a84-b8ed-49d8-8691-dc1489d2e676",
+  "path": "providers/openai/skills/.curated/notion-spec-to-implementation",
+  "path_key": "providers/openai/skills/.curated/notion-spec-to-implementation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

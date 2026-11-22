@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "31cdc3d0-506c-45bf-87ce-7d9539073385",
+  "path": "skills/orca-per-workspace-env",
+  "path_key": "skills/orca-per-workspace-env",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dbcd954e-e3cc-46f5-b734-f645f1e1e8c3",
+  "path": "plugins/platform/oh-my-antigravity/skills/autopilot",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/autopilot",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

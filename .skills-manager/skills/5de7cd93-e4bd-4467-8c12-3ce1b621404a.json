@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5de7cd93-e4bd-4467-8c12-3ce1b621404a",
+  "path": "plugins/workflow/autocode/skills/learn-preference",
+  "path_key": "plugins/workflow/autocode/skills/learn-preference",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

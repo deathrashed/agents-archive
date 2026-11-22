@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e0e7370c-8e44-4c6d-8229-7c177cd68243",
+  "path": "skills/token-efficiency",
+  "path_key": "skills/token-efficiency",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

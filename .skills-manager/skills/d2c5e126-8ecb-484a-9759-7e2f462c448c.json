@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d2c5e126-8ecb-484a-9759-7e2f462c448c",
+  "path": "plugins/platform/oh-my-gemini-cli/skills/taskboard",
+  "path_key": "plugins/platform/oh-my-gemini-cli/skills/taskboard",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

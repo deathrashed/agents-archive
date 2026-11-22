@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "977bf29d-c8ac-4f9c-a7ed-cd3a0ebda396",
+  "path": "plugins/workflow/autocode/skills/build-scaffold",
+  "path_key": "plugins/workflow/autocode/skills/build-scaffold",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "29777612-011d-4edd-b7e3-39db5092e826",
+  "path": "skills/skill-builder",
+  "path_key": "skills/skill-builder",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

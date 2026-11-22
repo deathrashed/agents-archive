@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "61f3be27-b086-4bdf-a997-f83049c586ea",
+  "path": "plugins/workflow/autocode/skills/memory",
+  "path_key": "plugins/workflow/autocode/skills/memory",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

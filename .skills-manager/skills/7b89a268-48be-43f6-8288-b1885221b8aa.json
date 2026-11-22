@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7b89a268-48be-43f6-8288-b1885221b8aa",
+  "path": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-three-statement-forecast",
+  "path_key": "plugins/codex/curated-remote/openai-templates/skills/artifact-template-three-statement-forecast",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

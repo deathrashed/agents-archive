@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b65d4477-3208-489d-ba8a-d63500bc3fc7",
+  "path": "skills/source-command-claude-flow-memory",
+  "path_key": "skills/source-command-claude-flow-memory",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

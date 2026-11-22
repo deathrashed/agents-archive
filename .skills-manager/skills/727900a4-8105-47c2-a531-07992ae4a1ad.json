@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "727900a4-8105-47c2-a531-07992ae4a1ad",
+  "path": ".agents/skills/oma-slide",
+  "path_key": ".agents/skills/oma-slide",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

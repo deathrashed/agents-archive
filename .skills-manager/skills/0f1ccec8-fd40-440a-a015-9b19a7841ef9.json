@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0f1ccec8-fd40-440a-a015-9b19a7841ef9",
+  "path": "plugins/workflow/autocode/skills/run-on-server",
+  "path_key": "plugins/workflow/autocode/skills/run-on-server",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

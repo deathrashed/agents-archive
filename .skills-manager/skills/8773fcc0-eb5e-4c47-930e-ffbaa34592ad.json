@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8773fcc0-eb5e-4c47-930e-ffbaa34592ad",
+  "path": "skills/specstory-session-summary",
+  "path_key": "skills/specstory-session-summary",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

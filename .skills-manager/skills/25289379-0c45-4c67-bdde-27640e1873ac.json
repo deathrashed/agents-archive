@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "25289379-0c45-4c67-bdde-27640e1873ac",
+  "path": "skills/orchestrate",
+  "path_key": "skills/orchestrate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

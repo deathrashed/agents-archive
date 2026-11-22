@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f71b0b9-8983-4e5d-ae56-70943ddd925a",
+  "path": "skillz/cloud-devops/kubernetes",
+  "path_key": "skillz/cloud-devops/kubernetes",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

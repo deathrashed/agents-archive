@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a3f6d4c1-ca51-4e8f-aea7-7ed93e101ef6",
+  "path": "providers/openai/skills/.curated/winui-app",
+  "path_key": "providers/openai/skills/.curated/winui-app",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

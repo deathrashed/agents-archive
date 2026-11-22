@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9b1d2553-18dd-41ee-a42f-0e3fff469692",
+  "path": "skills/cmux-workspace",
+  "path_key": "skills/cmux-workspace",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

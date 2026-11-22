@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "75309c9e-d146-4996-b484-3c74cf46244a",
+  "path": ".agents/skills/oma-architecture",
+  "path_key": ".agents/skills/oma-architecture",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

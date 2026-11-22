@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "98cb2ba1-8239-46bb-84a5-2f98ded11d68",
+  "path": ".agents/skills/oma-dev-workflow",
+  "path_key": ".agents/skills/oma-dev-workflow",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

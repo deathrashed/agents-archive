@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ec5e9806-f577-4889-9904-4b1a5abfe036",
+  "path": "plugins/platform/oh-my-antigravity/skills/blueprint",
+  "path_key": "plugins/platform/oh-my-antigravity/skills/blueprint",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

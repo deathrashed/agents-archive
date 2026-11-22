@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "00674da1-5390-4d14-b590-8141f46a0150",
+  "path": "plugins/codex/curated-remote/github/skills/github",
+  "path_key": "plugins/codex/curated-remote/github/skills/github",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

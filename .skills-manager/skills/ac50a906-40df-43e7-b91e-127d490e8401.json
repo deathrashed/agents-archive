@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ac50a906-40df-43e7-b91e-127d490e8401",
+  "path": "skills/learn-rule",
+  "path_key": "skills/learn-rule",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

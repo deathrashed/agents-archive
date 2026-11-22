@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "492fdc52-956b-42ba-b00b-f7df0fca4784",
+  "path": "plugins/workflow/autocode/skills/auto-quality",
+  "path_key": "plugins/workflow/autocode/skills/auto-quality",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b90384ba-2f55-4da5-b50b-8db35f1e4465",
+  "path": "plugins/codex/curated/hugging-face/skills/paper-publisher",
+  "path_key": "plugins/codex/curated/hugging-face/skills/paper-publisher",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

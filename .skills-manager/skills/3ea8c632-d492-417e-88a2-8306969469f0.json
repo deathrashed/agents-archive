@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3ea8c632-d492-417e-88a2-8306969469f0",
+  "path": "plugins/codex/curated/google-drive/skills/google-drive",
+  "path_key": "plugins/codex/curated/google-drive/skills/google-drive",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

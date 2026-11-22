@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e8c276a5-7e24-4222-b608-deb899a21216",
+  "path": "plugins/workflow/autocode/skills/multi-device",
+  "path_key": "plugins/workflow/autocode/skills/multi-device",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

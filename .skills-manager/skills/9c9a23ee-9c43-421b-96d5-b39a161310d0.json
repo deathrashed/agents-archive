@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9c9a23ee-9c43-421b-96d5-b39a161310d0",
+  "path": ".agents/skills/oma-search",
+  "path_key": ".agents/skills/oma-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

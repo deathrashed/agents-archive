@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5d50995d-7efd-44ff-9c68-5e01fc4cd846",
+  "path": "plugins/integrations/gemini-kit/skills/watzup",
+  "path_key": "plugins/integrations/gemini-kit/skills/watzup",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

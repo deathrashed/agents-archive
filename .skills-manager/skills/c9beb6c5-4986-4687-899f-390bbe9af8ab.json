@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c9beb6c5-4986-4687-899f-390bbe9af8ab",
+  "path": "plugins/omo/skills/lcx-report-bug",
+  "path_key": "plugins/omo/skills/lcx-report-bug",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

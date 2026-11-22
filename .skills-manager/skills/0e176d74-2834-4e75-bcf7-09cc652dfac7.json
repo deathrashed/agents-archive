@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0e176d74-2834-4e75-bcf7-09cc652dfac7",
+  "path": "skills/best-practice-research",
+  "path_key": "skills/best-practice-research",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

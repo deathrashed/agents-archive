@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "f91d0fc7-6235-4569-9549-1f34f3abf253",
+  "path": "plugins/integrations/maestro/skills/orchestrate",
+  "path_key": "plugins/integrations/maestro/skills/orchestrate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

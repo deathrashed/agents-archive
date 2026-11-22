@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "afe735af-b05e-4e37-b692-e6c06b925af4",
+  "path": "skills/reasoningbank-intelligence",
+  "path_key": "skills/reasoningbank-intelligence",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

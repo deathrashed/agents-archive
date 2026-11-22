@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b2959980-cd11-40a5-8845-81945a117247",
+  "path": "skillz/superpowers/writing-skills",
+  "path_key": "skillz/superpowers/writing-skills",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

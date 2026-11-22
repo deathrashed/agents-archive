@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5c667bd6-b704-45b4-8ce1-28d65399405f",
+  "path": "skills/llm-gate",
+  "path_key": "skills/llm-gate",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "import",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
